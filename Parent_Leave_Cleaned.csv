@@ -1,0 +1,1602 @@
+﻿Company,Industry,Sector,Paid Maternity Leave,Unpaid Maternity Leave,Paid Paternity Leave,Unpaid Paternity Leave
+Epsilon,Advertising,Communication Services,6,6,6,6
+The Walt Disney Company,Arts & Entertainment,Communication Services,5,4,4.5,4
+Guild Education,Business Services: Other,Industrials,14,0,8,4
+WeWork,Business Services: Other,Real Estate,14,2,16,4
+Randstad USA,Business Services: Staffing & Outsourcing,Industrials,5,7,0,0
+Bain & Company,Consulting Services,Industrials,20.5,5,21,5
+World 50,Consulting Services,Industrials,8,12,1,12
+"ConAgra Foods, Inc.",Consumer Packaged Goods: Packaged Foods,Consumer Staples,6,6,2,6
+Anduril Industries,Defense & Space,Industrials,16,0,16,0
+Northrop Grumman,Defense & Space,Industrials,3,12,2,12
+The University of Vermont,Educational Services: College & Universities,Consumer Discretionary,0,12,0,12
+Belden,Electronics: Manufacturing,Information Technology,0,12,0,12
+Motorola Solutions,Electronics: Manufacturing,Information Technology,6,7.5,0,6
+MFS Investment Management,Finance: Asset Management,Financials,16,2,12,0
+PIMCO,Finance: Asset Management,Financials,12,12,3,12
+Sandia National Laboratories,Government: Contractor,Industrials,6,6,6,6
+Los Angeles County,Government: County,Industrials,0,12,0,12
+Federal Reserve Bank of Chicago,Government: Federal,Financials,12,0,6,0
+Southern Health Partners,Healthcare: Diversified,Health Care,4,8,2,2
+Denver Health Medical Center,Healthcare: Hospitals & Clinics,Health Care,2.5,10.5,0,12
+Kohler Co.,Industrial: Equipment Manufacturing,Industrials,6,6,2,12
+UnitedHealth Group,Insurance: Health,Financials,4,8,5,4
+TEGNA,Media: Television,Communication Services,12,12,2,12
+BHP Billiton Ltd.,Natural Resources: Metals & Mining,Energy,18,34,2,8
+Roman Catholic Archdiocese of Philadelphia,Nonprofit: Religious,N/A,0,12,0,12
+Bristol Myers Squibb,Pharmaceutical,Health Care,15,0,8,16
+Walgreens,Pharmacies & Drug Stores,Consumer Staples,6,3,8,24
+Invitation Homes,Real Estate,Real Estate,6,6,6,3
+Cushman & Wakefield,Real Estate: Development & Management,Real Estate,9,0,6,6
+"L Brands, Inc.","Retail: Shoes, Accessories and Apparel",Consumer Staples,14,0,6,6
+Chronosphere,Technology: B2B Tech Services,Information Technology,16,8,16,8
+Dropbox,Technology: Consumer Internet,Information Technology,24,0,24,24
+Fairygodboss Inc.,Technology: Consumer Internet,Information Technology,12,0,21,3
+SiriusXM & Pandora,Technology: Consumer Internet,Communication Services,14,0,14,2
+Stack Overflow,Technology: Consumer Internet,Information Technology,16,0,16,8
+Electronic Arts,Technology: Gaming,Communication Services,11,12,11,12
+Ginkgo Bioworks,Technology: Research,Health Care,12,0,2,0
+Avalara,Technology: Software,Information Technology,12,15,12,12
+Cornerstone OnDemand,Technology: Software,Information Technology,14,0,6,12
+"ExamSoft Worldwide, Inc.",Technology: Software,Information Technology,4,12,2,12
+Medidata Solutions,Technology: Software,Information Technology,16,24,16,24
+"Sulzer US, LLC",Technology: Software,Information Technology,4,12,2,12
+Thryv,Technology: Software,Information Technology,0,3,0,0
+T-Mobile,Telecommunications,Communication Services,7.5,3,3,4
+CBIZ,Accounting Services,Financials,3.5,6,1,N/A
+CliftonLarsonAllen,Accounting Services,Financials,9.5,6,6,N/A
+Forvis,Accounting Services,Financials,12,N/A,2,12
+Grant Thornton,Accounting Services,Financials,51,51,51,N/A
+RSM US,Accounting Services,Financials,12,0,7,N/A
+LiveRamp,Advertising,Communication Services,16,6,16,N/A
+Boeing,Aerospace,Industrials,12,9,12,N/A
+Cessna Aircraft Company,Aerospace,Industrials,8,10,12,N/A
+Collins Aerospace,Aerospace,Industrials,12,0,4,N/A
+Collins Aerospace,Aerospace,Industrials,4,12,4,N/A
+Lockheed Martin Corporation,Aerospace,Industrials,6,1,4,N/A
+FCA US LLC,Automotive: Manufacturers,Consumer Discretionary,7.5,1,6,N/A
+Ford Motor Company,Automotive: Manufacturers,Consumer Discretionary,12,0,8,N/A
+General Motors,Automotive: Manufacturers,Consumer Discretionary,12,12,12,N/A
+Toyota North America,Automotive: Manufacturers,Consumer Discretionary,6,1.5,0,N/A
+Johnson Controls,Automotive: Parts Manufacturing,Consumer Discretionary,6,6,0,N/A
+ADP,Business Services: Human Resources,Industrials,6,6,16,N/A
+IHS Markit Ltd.,Business Services: Other,Financials,26,13,2,N/A
+Samsung Research America,Business Services: Other,Information Technology,6,0,6,N/A
+Adecco Group North America,Business Services: Staffing & Outsourcing,Industrials,12,6,0,N/A
+CGI,Business Services: Technology Solutions,Information Technology,8,0,2,N/A
+Paychex,Business Services: Technology Solutions,Industrials,9,3,6,N/A
+"Ecolab, Inc.",Conglomerate,Materials,9,0,6,N/A
+Siemens,Conglomerate,Industrials,6,0.5,2,N/A
+84.51¡,Consulting Services,Industrials,12,0,4,N/A
+Boston Consulting Group,Consulting Services,Industrials,16,0,8,N/A
+Deloitte,Consulting Services,Industrials,16,4,9,N/A
+KPMG,Consulting Services,Industrials,12,10,12,N/A
+McKinsey & Company,Consulting Services,Industrials,16,26,8,N/A
+Pariveda,Consulting Services,Industrials,6,0,6,N/A
+Protiviti,Consulting Services,Industrials,9,0,10,N/A
+Slalom,Consulting Services,Industrials,14,0,4,N/A
+Campari America,Consumer Packaged Goods: Beverages,Consumer Staples,12,N/A,12,6
+Miller Coors,Consumer Packaged Goods: Beverages,Consumer Staples,16,34,16,N/A
+General Mills,Consumer Packaged Goods: Packaged Foods,Consumer Staples,18,12,12,N/A
+"Mondelez International, Inc.",Consumer Packaged Goods: Packaged Foods,Consumer Staples,6,9.5,6,N/A
+Johnson & Johnson,Consumer Packaged Goods: Packaged Products,Consumer Staples,16,24,8,N/A
+Reckitt Benckiser,Consumer Packaged Goods: Packaged Products,Consumer Staples,21,31,16,N/A
+Unilever,Consumer Packaged Goods: Packaged Products,Consumer Staples,16,4,8,N/A
+Hasbro Inc.,Consumer Packaged Goods: Toys & Baby Products,Consumer Discretionary,18,18,N/A,13
+L'OrŽal USA,Cosmetics,Consumer Staples,12,0,8,N/A
+Raytheon Technologies,Defense & Space,Industrials,7.5,3,3,N/A
+Rice University,Educational Services: College & Universities,Consumer Discretionary,6,6,0,N/A
+University of Minnesota,Educational Services: College & Universities,Consumer Discretionary,6,6,6,N/A
+Walden University,Educational Services: College & Universities,Consumer Discretionary,6,6,1,N/A
+Cengage Learning,Educational Services: E-Learning,Consumer Discretionary,12,0,12,N/A
+Samsung Electronics,Electronics: Manufacturing,Consumer Discretionary,2,12,2,N/A
+Apollo Global Management,Finance: Asset Management,Financials,16,N/A,2,0
+Capital Group,Finance: Asset Management,Financials,12,0,18,N/A
+Merrill,Finance: Asset Management,Financials,11,6,16,N/A
+Discover Financial Services,Finance: Credit & Fund Services,Financials,16,0,2,N/A
+Mastercard,Finance: Credit & Fund Services,Financials,16,0,16,N/A
+Ally Financial,Finance: Diversified,Financials,12,0,12,N/A
+Ameriprise Financial,Finance: Diversified,Financials,12,4,2,N/A
+Charles Schwab,Finance: Diversified,Financials,8,6,6,N/A
+Citigroup,Finance: Diversified,Financials,16,4,4.5,N/A
+Deutsche Bank,Finance: Diversified,Financials,16,5,16,N/A
+DTCC,Finance: Diversified,Financials,16,4,16,N/A
+Goldman Sachs,Finance: Diversified,Financials,20,3,20,N/A
+Macquarie Group,Finance: Diversified,Financials,16,0,6,N/A
+Northern Trust,Finance: Diversified,Financials,10,6,10,N/A
+Raymond James,Finance: Diversified,Financials,16,0,4,N/A
+RBC Wealth Management,Finance: Diversified,Financials,11.5,10,4,N/A
+Silicon Valley Bank,Finance: Diversified,Financials,12,0,12,N/A
+UBS,Finance: Diversified,Financials,24,24,20,N/A
+Wells Fargo,Finance: Diversified,Financials,16,5,4,N/A
+William Blair,Finance: Diversified,Financials,18,0,2,N/A
+SoFi,Finance: Loans,Financials,4,5,2,N/A
+PNC Financial Services Group,Finance: Personal & Commercial Banking,Financials,12,0,6,N/A
+TD Bank,Finance: Personal & Commercial Banking,Financials,16,13,16,N/A
+TIAA Bank,Finance: Personal & Commercial Banking,Financials,28,0,16,N/A
+OECD,Government: International,N/A,14,0,4,N/A
+Banfield Pet Hospital,Healthcare: Animal Health,Health Care,6,12,4,N/A
+Illumina,Healthcare: Biotechnology,Health Care,6,3,6,N/A
+Thermo Fisher Scientific,Healthcare: Biotechnology,Health Care,11.5,1,3,N/A
+CVS Health,Healthcare: Diversified,Health Care,4,4,4,N/A
+Fresenius,Healthcare: Diversified,Health Care,4,12,0,N/A
+Aurora Health Care,Healthcare: Hospitals & Clinics,Health Care,0,12,N/A,0
+Mayo Clinic,Healthcare: Hospitals & Clinics,Health Care,5,6.5,0,N/A
+"Universal Health Services, Inc.",Healthcare: Hospitals & Clinics,Health Care,0,12,0,N/A
+University of Pittsburgh Medical Center,Healthcare: Hospitals & Clinics,Health Care,2,6,2,N/A
+Quest Diagnostics,Healthcare: Laboratory Testing,Health Care,6,0,N/A,0
+"Becton, Dickinson and Company",Healthcare: Medical Devices,Health Care,6,12,6,N/A
+Medtronic,Healthcare: Medical Devices,Health Care,12,2,0,N/A
+Zimmer Biomet,Healthcare: Medical Devices,Health Care,8,4,6,N/A
+Flatiron Health,Healthcare: Telemedicine,Health Care,30,15,30,N/A
+Choice Hotels,Hospitality: Hotels,Consumer Discretionary,12,0,4,N/A
+Marriott International,Hospitality: Hotels,Consumer Discretionary,8,8,8,N/A
+McDonald's,Hospitality: Restaurants,Consumer Discretionary,12,12,N/A,29
+Starbucks,Hospitality: Restaurants,Consumer Discretionary,6,9,6,N/A
+Perkins + Will,Industrial: Architecture & Design,Industrials,4,0,4,N/A
+Owens Corning,Industrial: Building Materials Manufacturing,Industrials,4,4,N/A,2
+Power Home Remodeling,Industrial: Construction Company,Industrials,12,0,3,N/A
+3M,Industrial: Diversified,Industrials,10,10,N/A,10
+Parker Hannifin,Industrial: Diversified,Industrials,4,8,0,N/A
+BEUMER Group,Industrial: Equipment Manufacturing,Industrials,4,0,4,N/A
+Caterpillar,Industrial: Equipment Manufacturing,Industrials,5,6,4,N/A
+CNH Industrial America,Industrial: Equipment Manufacturing,Industrials,6,6,4,N/A
+Cummins,Industrial: Equipment Manufacturing,Industrials,12,10,6,N/A
+Hilti Corporation,Industrial: Equipment Manufacturing,Industrials,12,2,4,N/A
+nVent,Industrial: Equipment Manufacturing,Industrials,6,0,6,N/A
+Rockwell Automation,Industrial: Equipment Manufacturing,Industrials,6,9,6,N/A
+McMaster-Carr,Industrial: Other,Industrials,16,4,4,N/A
+Argus Media,Information Services: Diversified,Communication Services,8,12,1,N/A
+LAC-Group,Information Services: Diversified,Industrials,32.5,0,35,N/A
+S&P Global,Information Services: Financial,Financials,18,0,23,N/A
+DXC Technology,Information Services: Technology,Information Technology,9,36,1,N/A
+Forrester Research,Information Services: Technology,Information Technology,15,6,2,N/A
+General Dynamics Information Technology,Information Services: Technology,Information Technology,2,19,1,N/A
+AON,Insurance: Diversified,Financials,8,8,6,N/A
+Aetna,Insurance: Health,Financials,12,12,4,N/A
+Health Care Service Corporation,Insurance: Health,Financials,6,3,N/A,6
+Highmark Inc.,Insurance: Health,Financials,6,4,N/A,4
+Humana,Insurance: Health,Financials,6,6,6,N/A
+Kaiser Permanente,Insurance: Health,Financials,3,3,0,N/A
+Combined Insurance,Insurance: Life,Financials,15,3,N/A,0
+Root Insurance,Insurance: Property & Casualty,Financials,12,0,12,N/A
+State Farm,Insurance: Property & Casualty,Financials,9,0,6,N/A
+The Hanover Insurance Group,Insurance: Property & Casualty,Financials,8,4,2,N/A
+Holland & Knight LLP,Law Firm,Consumer Discretionary,4,8,6,N/A
+"Orrick, Herrington & Sutcliffe LLP",Law Firm,Consumer Discretionary,23,2,16,N/A
+Expedia Group,"Leisure, Travel & Tourism",Consumer Discretionary,18,4,12,N/A
+WarnerMedia,Media: Diversified,Communication Services,9,2,6,N/A
+Cargill,Natural Resources: Agriculture and Food Processing,Consumer Staples,12,0,4,N/A
+Air Liquide,Natural Resources: Chemicals,Materials,14,N/A,6,0
+Dow,Natural Resources: Chemicals,Materials,12,0,N/A,16
+Ineos,Natural Resources: Chemicals,Materials,6.5,9,0,N/A
+Ingevity Corporation,Natural Resources: Chemicals,Materials,10,1,4,N/A
+PolyOne Corporation,Natural Resources: Chemicals,Materials,6,12,6,N/A
+Consumers Energy,Natural Resources: Electric & Gas Utility,Utilities,6,0,16,N/A
+NextEra Energy,Natural Resources: Electric Power Generation,Industrials,3,9,0,N/A
+Chevron,Natural Resources: Oil & Gas,Industrials,12,26,8,N/A
+Phillips 66,Natural Resources: Oil & Gas,Industrials,9,12,2,N/A
+Range Resources,Natural Resources: Oil & Gas,Industrials,9,6,2,N/A
+American Water,Natural Resources: Renewables & Environment,Utilities,2,0,N/A,12
+Make-A-Wish Foundation,Nonprofit: Charity,N/A,6,12,0,N/A
+Wikimedia Foundation,Nonprofit: Education,N/A,12,5,7,N/A
+Girl Scouts of the USA,Nonprofit: Human Rights Advocacy,N/A,6,0,6,N/A
+RAND Corporation,Nonprofit: Public Policy,N/A,5.5,0,3,N/A
+The MITRE Corporation,Nonprofit: Research,N/A,7,0,2,N/A
+Abbott Nutrition,Pharmaceutical,Health Care,8,16,2,N/A
+GlaxoSmithKline,Pharmaceutical,Health Care,14,0,8,N/A
+McKesson,Pharmaceutical,Health Care,6,0,6,N/A
+Vertex Pharmaceuticals,Pharmaceutical,Health Care,16,0,8,N/A
+Bill and Melinda Gates Foundation,Philanthropy,N/A,26,11,26,N/A
+MOO,Printing,Communication Services,2,40,2,N/A
+Elsevier,Publishing,Communication Services,39,0.5,1,N/A
+Wiley Publishing,Publishing,Communication Services,6,6,4,N/A
+Bidwells LLP,Real Estate: Other,Real Estate,14,38,2,N/A
+Realtor.com,Real Estate: Other,Real Estate,20,0,4,N/A
+Kohl's,Retail: Department Store,Consumer Discretionary,6,9,4,N/A
+Home Depot,Retail: Furniture & Home Improvement,Consumer Discretionary,6,6,6,N/A
+Wayfair,Retail: Furniture & Home Improvement,Consumer Discretionary,12,2,4,N/A
+Columbia Sportswear,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,4,8,6,N/A
+Luxottica Group SpA,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,8.5,6,2,N/A
+Target,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,6,4,N/A
+Meijer,Retail: Supermarket Company,Consumer Staples,5,3,4,N/A
+Publix Super Markets,Retail: Supermarket Company,Consumer Staples,2,6.5,N/A,0
+Athenahealth,Technology: B2B Tech Services,Health Care,12,0,6,N/A
+CDW Corporation,Technology: B2B Tech Services,Information Technology,6,4,2,N/A
+Cerner Corporation,Technology: B2B Tech Services,Health Care,12,0,4,N/A
+Elastic,Technology: B2B Tech Services,Information Technology,16,0,16,N/A
+Equinix,Technology: B2B Tech Services,Real Estate,8,4,8,N/A
+Hewlett Packard Enterprise,Technology: B2B Tech Services,Information Technology,26,6,26,N/A
+Tata Consultancy Services,Technology: B2B Tech Services,Information Technology,24,N/A,1,4
+Amazon,Technology: Consumer Internet,Information Technology,12,0,6,N/A
+Angie's List,Technology: Consumer Internet,Information Technology,11,6,6,N/A
+Birchbox,Technology: Consumer Internet,Information Technology,14,0,12,N/A
+Box,Technology: Consumer Internet,Information Technology,18,1,12,N/A
+eBay,Technology: Consumer Internet,Information Technology,12,0,12,N/A
+Glassdoor,Technology: Consumer Internet,Information Technology,20,0,12,N/A
+Google,Technology: Consumer Internet,Information Technology,24,0,18,N/A
+Indeed,Technology: Consumer Internet,Information Technology,16,0,16,N/A
+LinkedIn,Technology: Consumer Internet,Information Technology,20,4,12,N/A
+Tinder,Technology: Consumer Internet,Information Technology,18,0,18,N/A
+Uber,Technology: Consumer Internet,Information Technology,18,0,18,N/A
+FIS Global,Technology: Financial Services,Financials,6,0,6,N/A
+Jack Henry,Technology: Financial Services,Financials,8,7,2,N/A
+Personal Capital,Technology: Financial Services,Financials,2,0,6,N/A
+Zwift,Technology: Gaming,Communication Services,12,6,12,N/A
+Zynga,Technology: Gaming,Communication Services,26,0,18,N/A
+Apple,Technology: Manufacturing,Information Technology,14,6,4,N/A
+Cisco,Technology: Manufacturing,Information Technology,13,2,0,N/A
+Dell Technologies,Technology: Manufacturing,Information Technology,12,0,12,N/A
+Garmin,Technology: Manufacturing,Information Technology,2,12,N/A,0
+IBM,Technology: Manufacturing,Information Technology,12,0,12,N/A
+Intel Corporation,Technology: Manufacturing,Information Technology,8,12,7.5,N/A
+Western Digital,Technology: Manufacturing,Information Technology,8,0,12,N/A
+VISA,Technology: Payments,Financials,13,8,10,N/A
+Waters Corporation,Technology: Research,Industrials,8,4,1,N/A
+Forcepoint,Technology: Security,Industrials,12,3,6,N/A
+Tanium,Technology: Security,Industrials,16,0,8,N/A
+Addepar,Technology: Software,Information Technology,19,0,10,N/A
+Adobe Systems,Technology: Software,Information Technology,17,15,16,N/A
+Appian,Technology: Software,Information Technology,16,0,12,N/A
+"Calabrio, Inc.",Technology: Software,Information Technology,3,3,0,N/A
+Epic Systems,Technology: Software,Information Technology,2,11,2,N/A
+FactSet,Technology: Software,Information Technology,16,0,4,N/A
+GitHub,Technology: Software,Information Technology,20,4,20,N/A
+Klaviyo,Technology: Software,Information Technology,16,0,16,N/A
+Mindbody,Technology: Software,Information Technology,12,2,N/A,18
+NexJ Systems Inc.,Technology: Software,Information Technology,13,52,13,N/A
+Pegasystems Inc.,Technology: Software,Information Technology,12,6,4,N/A
+Qualitest Group,Technology: Software,Information Technology,26,0,0,N/A
+Salesforce,Technology: Software,Information Technology,26,0,26,N/A
+ServiceNow,Technology: Software,Information Technology,20,0,12,N/A
+Slack Technologies,Technology: Software,Information Technology,20,0,12,N/A
+UKG,Technology: Software,Information Technology,12,0,4,N/A
+Workiva,Technology: Software,Information Technology,12,8,12,N/A
+"Zendesk, Inc",Technology: Software,Information Technology,11,2,10.5,N/A
+DISH,Telecommunications,Communication Services,0,12,0,N/A
+Lumen,Telecommunications,Communication Services,12,1,6,N/A
+Spectrum,Telecommunications,Communication Services,6,6,2,N/A
+Verizon,Telecommunications,Communication Services,8,4,8,N/A
+Viasat,Telecommunications,Communication Services,16,0,9,N/A
+Zoom,Telecommunications,Communication Services,11,6,16,N/A
+FedEx,Transportation: Couriers & Delivery,Industrials,2,28,2,N/A
+Instacart,Transportation: Couriers & Delivery,Industrials,16,4,12,N/A
+C.H. Robinson,Transportation: Freight & Logistics,Industrials,2,6,2,N/A
+Virgin Hyperloop One,Transportation: Rail,Industrials,16,2,16,N/A
+ClassPass,Wellness & Fitness,Consumer Discretionary,14,12,4,N/A
+Sysco,Wholesale,Consumer Staples,6,6,0,N/A
+US Foods,Wholesale,Consumer Staples,6,6,2,N/A
+BerryDunn,Accounting Services,Financials,6,6,N/A,N/A
+Crowe,Accounting Services,Financials,6,0,N/A,N/A
+Eisneramper,Accounting Services,Financials,8,12,N/A,N/A
+Fathom,Accounting Services,Financials,12,0,N/A,N/A
+Kearney & Company,Accounting Services,Financials,4,0,N/A,N/A
+Marcum LLP,Accounting Services,Financials,8,8,N/A,N/A
+Myers & Stauffer LC,Accounting Services,Financials,8,52,N/A,N/A
+Ryan LLC,Accounting Services,Financials,14,6,N/A,N/A
+Acceleration Partners,Advertising,Communication Services,6,6,N/A,N/A
+AdTheorent,Advertising,Communication Services,6,0,N/A,N/A
+Affinion Group,Advertising,Communication Services,4,4,N/A,N/A
+Ampersand,Advertising,Communication Services,12,0,N/A,N/A
+Ansira,Advertising,Communication Services,12,0,N/A,N/A
+BBDO,Advertising,Communication Services,3,12,N/A,N/A
+Cares Pro LLC,Advertising,Communication Services,10,10,N/A,N/A
+Code And Theory,Advertising,Communication Services,4,0,N/A,N/A
+Constant Contact,Advertising,Communication Services,12,0,N/A,N/A
+Conversant Media,Advertising,Communication Services,12,4,N/A,N/A
+Create NYC,Advertising,Communication Services,8,0,N/A,N/A
+DIGO,Advertising,Communication Services,6,9,N/A,N/A
+Essence Digital,Advertising,Communication Services,1,0,N/A,N/A
+Goodway Group,Advertising,Communication Services,12,0,N/A,N/A
+Hawkeye Agency,Advertising,Communication Services,11,1,N/A,N/A
+Hill Holliday,Advertising,Communication Services,12,0,N/A,N/A
+Hirshorn Zuckerman Design Group,Advertising,Communication Services,2,12,N/A,N/A
+Hootsuite,Advertising,Communication Services,36,36,N/A,N/A
+Huge Inc,Advertising,Communication Services,12,24,N/A,N/A
+Launch Potato,Advertising,Communication Services,8,8,N/A,N/A
+Media Directions Advertising,Advertising,Communication Services,1,1,N/A,N/A
+MediaCom,Advertising,Communication Services,12,0,N/A,N/A
+Monigle,Advertising,Communication Services,6,6,N/A,N/A
+National Cinemedia,Advertising,Communication Services,4,8,N/A,N/A
+News America Marketing,Advertising,Communication Services,12,12,N/A,N/A
+Ogilvy,Advertising,Communication Services,48,4,N/A,N/A
+Omnicom Media Group,Advertising,Communication Services,2,10,N/A,N/A
+PGR Media,Advertising,Communication Services,12,0,N/A,N/A
+Pico,Advertising,Communication Services,13,0,N/A,N/A
+R/GA,Advertising,Communication Services,12,0,N/A,N/A
+Radancy,Advertising,Communication Services,3,9,N/A,N/A
+Radius Intelligence,Advertising,Communication Services,12,0,N/A,N/A
+ReachLocal,Advertising,Communication Services,6,0,N/A,N/A
+Saatchi & Saatchi,Advertising,Communication Services,4.5,14,N/A,N/A
+SapientRazorfish,Advertising,Communication Services,6,4,N/A,N/A
+SmartBug Media,Advertising,Communication Services,4,2,N/A,N/A
+Spectrum Science,Advertising,Communication Services,13,13,N/A,N/A
+Stage Marketing,Advertising,Communication Services,4,8,N/A,N/A
+Tag Worldwide,Advertising,Communication Services,6,6,N/A,N/A
+The Richards Group,Advertising,Communication Services,12,0,N/A,N/A
+UNiDAYS,Advertising,Communication Services,20,0,N/A,N/A
+VaynerMedia,Advertising,Communication Services,7,12,N/A,N/A
+Wavemaker,Advertising,Communication Services,9,2,N/A,N/A
+Wunderman DC,Advertising,Communication Services,24,0,N/A,N/A
+Zenith Media,Advertising,Communication Services,3,9,N/A,N/A
+AMG Research,Advertising: Market Research,Industrials,4,12,N/A,N/A
+eMarketer,Advertising: Market Research,Industrials,12,0,N/A,N/A
+Hanover Research,Advertising: Market Research,Industrials,12,6,N/A,N/A
+Acubed,Aerospace,Industrials,12,1,N/A,N/A
+Honeywell Aerospace,Aerospace,Industrials,16,0,N/A,N/A
+Pratt & Whitney,Aerospace,Industrials,12,12,N/A,N/A
+SpaceX,Aerospace,Industrials,8,10,N/A,N/A
+Boston Ballet,Arts & Entertainment,Communication Services,12,12,N/A,N/A
+Creative Artists Agency,Arts & Entertainment,Communication Services,12,N/A,12,N/A
+Disney Streaming Services,Arts & Entertainment,Communication Services,12,10,N/A,N/A
+GoDigital Media Group,Arts & Entertainment,Communication Services,0,N/A,0,N/A
+LaneOne,Arts & Entertainment,Communication Services,6,0,N/A,N/A
+Live Nation,Arts & Entertainment,Communication Services,24,12,N/A,N/A
+Camping World,Automotive: Dealers,Consumer Discretionary,8,0,N/A,N/A
+Young Automotive Group,Automotive: Dealers,Consumer Discretionary,3,12,N/A,N/A
+Aptiv PLC,Automotive: Manufacturers,Consumer Discretionary,6,14,N/A,N/A
+Mercedes-Benz Research & Development North America,Automotive: Manufacturers,Consumer Discretionary,24,0,N/A,N/A
+Advance Auto Parts,Automotive: Parts,Consumer Discretionary,8,4,N/A,N/A
+Bendix Commercial Vehicle Systems,Automotive: Parts Manufacturing,Consumer Discretionary,6,0,N/A,N/A
+Bridgestone Corporation,Automotive: Parts Manufacturing,Consumer Discretionary,8,0,N/A,N/A
+Continental,Automotive: Parts Manufacturing,Consumer Discretionary,4,4,N/A,N/A
+"Donaldson Company, Inc.",Automotive: Parts Manufacturing,Consumer Discretionary,0,12,N/A,N/A
+Michelin,Automotive: Parts Manufacturing,Consumer Discretionary,12,0,N/A,N/A
+Valvoline,Automotive: Products & Services,Consumer Discretionary,4,0,N/A,N/A
+Aramark,Business Services: Food & Hospitality,Consumer Discretionary,2,10,N/A,N/A
+Cintas Corporation,Business Services: Food & Hospitality,Consumer Discretionary,12,12,N/A,N/A
+ADP Canada Inc,Business Services: Human Resources,Industrials,26,4,N/A,N/A
+ADP India,Business Services: Human Resources,Industrials,25,25,N/A,N/A
+ADP Philippines,Business Services: Human Resources,Industrials,6.5,0,N/A,N/A
+ADP UK,Business Services: Human Resources,Industrials,36,12,N/A,N/A
+ACA Compliance Group,Business Services: Other,Industrials,4,8,N/A,N/A
+"BDO USA, LLP",Business Services: Other,Financials,9,3,N/A,N/A
+Brabo Payroll,Business Services: Other,Industrials,13,13,N/A,N/A
+Cardlytics,Business Services: Other,Communication Services,12,0,N/A,N/A
+Cians Analytics,Business Services: Other,Industrials,26,26,N/A,N/A
+CoStar Group,Business Services: Other,Industrials,6,6,N/A,N/A
+Deluxe Corporation,Business Services: Other,Industrials,8,0,N/A,N/A
+EveryDay Labs,Business Services: Other,Information Technology,12,0,N/A,N/A
+Flexport,Business Services: Other,Information Technology,16,0,N/A,N/A
+LexisNexis Risk Solutions Group,Business Services: Other,Information Technology,6,6,N/A,N/A
+LGC Standards,Business Services: Other,Industrials,12,0,N/A,N/A
+"LOTH, Inc.",Business Services: Other,Real Estate,10,0,N/A,N/A
+MIC Global Services,Business Services: Other,Financials,6,12,N/A,N/A
+Moody's Analytics,Business Services: Other,Financials,12,0,N/A,N/A
+Nuclear Energy Institute,Business Services: Other,N/A,12,0,N/A,N/A
+SmithBucklin,Business Services: Other,Industrials,2,10,N/A,N/A
+The Larkin Company,Business Services: Other,Industrials,12,12,N/A,N/A
+Ticketmaster,Business Services: Other,Consumer Discretionary,23,12,N/A,N/A
+UL LLC,Business Services: Other,Information Technology,13.5,15.5,N/A,N/A
+United States Chamber of Commerce,Business Services: Other,Financials,8,12,N/A,N/A
+247 Private Security,Business Services: Security,Industrials,0,0,N/A,N/A
+Allied Universal,Business Services: Security,Industrials,5,21,N/A,N/A
+Vivint,Business Services: Security,Industrials,6,6,N/A,N/A
+24-7 Intouch,Business Services: Staffing & Outsourcing,Industrials,0,N/A,0,N/A
+"Aerotek, Inc.",Business Services: Staffing & Outsourcing,Industrials,7,10,N/A,N/A
+Beetroot,Business Services: Staffing & Outsourcing,Industrials,6,52,N/A,N/A
+Caastle,Business Services: Staffing & Outsourcing,Industrials,12,4,N/A,N/A
+Concurrent HRO,Business Services: Staffing & Outsourcing,Industrials,2,2,N/A,N/A
+Cyberbacker PH,Business Services: Staffing & Outsourcing,Industrials,5,2,N/A,N/A
+Daversa Partners,Business Services: Staffing & Outsourcing,Industrials,12,0,N/A,N/A
+Hays,Business Services: Staffing & Outsourcing,Industrials,4,8,N/A,N/A
+Kforce,Business Services: Staffing & Outsourcing,Industrials,1,0,N/A,N/A
+Manpower,Business Services: Staffing & Outsourcing,Industrials,20,0,N/A,N/A
+Marketsource,Business Services: Staffing & Outsourcing,Industrials,1,11,N/A,N/A
+MarketStar,Business Services: Staffing & Outsourcing,Industrials,6,6,N/A,N/A
+Maxim Healthcare Services,Business Services: Staffing & Outsourcing,Health Care,5,0,N/A,N/A
+nFuzion,Business Services: Staffing & Outsourcing,Industrials,4,0,N/A,N/A
+Norwin Technologies,Business Services: Staffing & Outsourcing,Industrials,2,0,N/A,N/A
+Populus Group,Business Services: Staffing & Outsourcing,Industrials,12,12,N/A,N/A
+Randstad Sourceright,Business Services: Staffing & Outsourcing,Industrials,39,13,N/A,N/A
+Recruitics,Business Services: Staffing & Outsourcing,Industrials,9,4,N/A,N/A
+Robert Half,Business Services: Staffing & Outsourcing,Industrials,6,4,N/A,N/A
+Rochester Telemessaging Center,Business Services: Staffing & Outsourcing,Industrials,3,12,N/A,N/A
+Search Solution Group,Business Services: Staffing & Outsourcing,Industrials,12,6,N/A,N/A
+TaskUs,Business Services: Staffing & Outsourcing,Industrials,6,0,N/A,N/A
+WilsonHCG,Business Services: Staffing & Outsourcing,Industrials,26,26,N/A,N/A
+Alight Solutions,Business Services: Technology Solutions,Information Technology,8,2,N/A,N/A
+Allied Telecom Group,Business Services: Technology Solutions,Communication Services,10,0,N/A,N/A
+Bazaarvoice,Business Services: Technology Solutions,Information Technology,12,0,N/A,N/A
+Broadridge Financial Solutions Group,Business Services: Technology Solutions,Financials,10.5,18,N/A,N/A
+CareDox,Business Services: Technology Solutions,Health Care,12,1,N/A,N/A
+Clever Devices,Business Services: Technology Solutions,Information Technology,4,4,N/A,N/A
+Galois,Business Services: Technology Solutions,Information Technology,16,12,N/A,N/A
+Paya,Business Services: Technology Solutions,Financials,5,7,N/A,N/A
+Pitney Bowes,Business Services: Technology Solutions,Industrials,8,0,N/A,N/A
+Sprinklr,Business Services: Technology Solutions,Communication Services,14,0,N/A,N/A
+Taulia Inc.,Business Services: Technology Solutions,Information Technology,16,8,N/A,N/A
+Thoughtworks,Business Services: Technology Solutions,Information Technology,12,0,N/A,N/A
+TodayTix,Business Services: Technology Solutions,Information Technology,12,0,N/A,N/A
+Sysdig,Computer & Network Security,Information Technology,13,0,N/A,N/A
+Miro,Computer Software,Information Technology,12,N/A,6,N/A
+General Electric,Conglomerate,Industrials,12,0,N/A,N/A
+Growmark,Conglomerate,Financials,2,12,N/A,N/A
+Koch Industries,Conglomerate,Financials,6,6,N/A,N/A
+Newell Brands,Conglomerate,Consumer Discretionary,12,3,N/A,N/A
+"Reliance Industries, Ltd",Conglomerate,Financials,52,24,N/A,N/A
+Siemens Industry Automation and Drive Technologies,Conglomerate,Industrials,9.5,0,N/A,N/A
+Textron Inc.,Conglomerate,Industrials,2,0,N/A,N/A
+Accenture,Consulting Services,Industrials,16,2,N/A,N/A
+Alvarez & Marsal,Consulting Services,Industrials,12,0,N/A,N/A
+Arc Aspicio,Consulting Services,Industrials,6,13,N/A,N/A
+Artemis Connection,Consulting Services,Industrials,10,29,N/A,N/A
+AustinCSI,Consulting Services,Industrials,4,0,N/A,N/A
+BSR (Business for Social Responsibility),Consulting Services,Industrials,5,2,N/A,N/A
+Capco,Consulting Services,Industrials,18,52,N/A,N/A
+Capgemini,Consulting Services,Industrials,14,4,N/A,N/A
+Credera,Consulting Services,Industrials,6,0,N/A,N/A
+Dalberg,Consulting Services,Industrials,26,26,N/A,N/A
+Dexis Consulting Group,Consulting Services,Industrials,5,0,N/A,N/A
+FTI Consulting,Consulting Services,Industrials,16,12,N/A,N/A
+GHD Group Pty Ltd,Consulting Services,Industrials,6,12,N/A,N/A
+Guidehouse,Consulting Services,Industrials,9,17,N/A,N/A
+Heidrick & Struggles,Consulting Services,Industrials,16,12,N/A,N/A
+Indigo Ag,Consulting Services,Industrials,12,0,N/A,N/A
+Intentional Futures,Consulting Services,Industrials,8,6,N/A,N/A
+Jasper Colin Research,Consulting Services,Industrials,24,18,N/A,N/A
+Macro Consultants LLC,Consulting Services,Industrials,8,12,N/A,N/A
+Mead & Hunt,Consulting Services,Industrials,16,10,N/A,N/A
+MSA Worldwide,Consulting Services,Industrials,8,0,N/A,N/A
+MTX Group Inc,Consulting Services,Industrials,52,0,N/A,N/A
+Navigant Consulting,Consulting Services,Industrials,6,6,N/A,N/A
+Novantas Inc.,Consulting Services,Industrials,6,0,N/A,N/A
+NTT DATA Services,Consulting Services,Industrials,6,12,N/A,N/A
+O.C. Tanner,Consulting Services,Industrials,6,12,N/A,N/A
+OC&C Strategy Consultants,Consulting Services,Industrials,26,26,N/A,N/A
+Oliver Wyman,Consulting Services,Industrials,18,6,N/A,N/A
+"Perficient, Inc.",Consulting Services,Industrials,4,4,N/A,N/A
+PwC,Consulting Services,Industrials,16,4,N/A,N/A
+Resource Systems Group,Consulting Services,Industrials,4,12,N/A,N/A
+Search Discovery,Consulting Services,Industrials,7,6,N/A,N/A
+Stride Consulting,Consulting Services,Industrials,3,7,N/A,N/A
+"TCG, Inc",Consulting Services,Industrials,3,16,N/A,N/A
+True Group,Consulting Services,Industrials,6,12,N/A,N/A
+West Monroe,Consulting Services,Industrials,12,0,N/A,N/A
+ZS,Consulting Services,Industrials,16,12,N/A,N/A
+Anheuser-Busch InBev,Consumer Packaged Goods: Beverages,Consumer Staples,26,0,N/A,N/A
+Beam Suntory,Consumer Packaged Goods: Beverages,Consumer Staples,26,0,N/A,N/A
+Boston Beer Company,Consumer Packaged Goods: Beverages,Consumer Staples,3,10,N/A,N/A
+Molson Coors Brewing Company,Consumer Packaged Goods: Beverages,Consumer Staples,14,0,N/A,N/A
+Nestle Waters,Consumer Packaged Goods: Beverages,Consumer Staples,14,10,N/A,N/A
+PepsiCo,Consumer Packaged Goods: Beverages,Consumer Staples,6,6,N/A,N/A
+Pernod Ricard,Consumer Packaged Goods: Beverages,Consumer Staples,12,0,N/A,N/A
+Ranch Rider Spirits,Consumer Packaged Goods: Beverages,Consumer Staples,10,0,N/A,N/A
+The Coca-Cola Company,Consumer Packaged Goods: Beverages,Consumer Staples,12,0,N/A,N/A
+Total Wine & More,Consumer Packaged Goods: Beverages,Consumer Staples,8,N/A,4,N/A
+ Braum's Ice Cream & Dairy Store,Consumer Packaged Goods: Packaged Foods,Consumer Staples,3,1,N/A,N/A
+Ajinomoto,Consumer Packaged Goods: Packaged Foods,Consumer Staples,9,12,N/A,N/A
+Bimbo Bakeries USA,Consumer Packaged Goods: Packaged Foods,Consumer Staples,8,24,N/A,N/A
+Campbell Soup Company,Consumer Packaged Goods: Packaged Foods,Consumer Staples,10,0,N/A,N/A
+Frito-Lay,Consumer Packaged Goods: Packaged Foods,Consumer Staples,6,6,N/A,N/A
+Impossible Foods,Consumer Packaged Goods: Packaged Foods,Consumer Staples,12,17,N/A,N/A
+Lindt & SprŸngli,Consumer Packaged Goods: Packaged Foods,Consumer Staples,6,6,N/A,N/A
+Nestle,Consumer Packaged Goods: Packaged Foods,Consumer Staples,14,26,N/A,N/A
+R. M. Palmer Company,Consumer Packaged Goods: Packaged Foods,Consumer Staples,6,18,N/A,N/A
+Taylor Company,Consumer Packaged Goods: Packaged Foods,Consumer Staples,26,0,N/A,N/A
+The Coffee Bean & Tea Leaf,Consumer Packaged Goods: Packaged Foods,Consumer Staples,6,0,N/A,N/A
+"The Dannon Company, Inc.",Consumer Packaged Goods: Packaged Foods,Consumer Staples,20,0,N/A,N/A
+The J.M. Smucker Company,Consumer Packaged Goods: Packaged Foods,Consumer Staples,8,0,N/A,N/A
+WellPet LLC,Consumer Packaged Goods: Packaged Foods,Consumer Staples,12,12,N/A,N/A
+Colgate-Palmolive Company,Consumer Packaged Goods: Packaged Products,Consumer Staples,19.5,6,N/A,N/A
+Elanco Animal Health,Consumer Packaged Goods: Packaged Products,Consumer Staples,12,12,N/A,N/A
+Henkel,Consumer Packaged Goods: Packaged Products,Consumer Staples,8,3,N/A,N/A
+Nestle Purina PetCare Company,Consumer Packaged Goods: Packaged Products,Consumer Staples,8.5,0,N/A,N/A
+Procter & Gamble,Consumer Packaged Goods: Packaged Products,Consumer Staples,12,2,N/A,N/A
+The Scotts Miracle-Gro Company,Consumer Packaged Goods: Packaged Products,Consumer Staples,10,0,N/A,N/A
+"Altria Group, Inc.",Consumer Packaged Goods: Tobacco,Consumer Staples,6,0,N/A,N/A
+Reynolds American Inc.,Consumer Packaged Goods: Tobacco,Consumer Staples,16,N/A,16,N/A
+Munchkin,Consumer Packaged Goods: Toys & Baby Products,Consumer Staples,6,0,N/A,N/A
+Aesop,Cosmetics,Consumer Staples,12,N/A,6,N/A
+Benefit Cosmetics LLC,Cosmetics,Consumer Staples,12,4,N/A,N/A
+Curology,Cosmetics,Consumer Staples,12,12,N/A,N/A
+Edge Systems LLC,Cosmetics,Consumer Staples,12,0,N/A,N/A
+Estee Lauder Companies,Cosmetics,Consumer Staples,24,0,N/A,N/A
+Mac Cosmetics,Cosmetics,Consumer Staples,12,8,N/A,N/A
+Revlon,Cosmetics,Consumer Staples,12,12,N/A,N/A
+BAE Systems,Defense & Space,Industrials,2,12,N/A,N/A
+L3Harris,Defense & Space,Industrials,5,3,N/A,N/A
+Sierra Nevada Corperation,Defense & Space,Industrials,5,8,N/A,N/A
+Textron Systems,Defense & Space,Industrials,2,0,N/A,N/A
+10up,Design,Information Technology,4,12,N/A,N/A
+Kettle,Design,Communication Services,12,12,N/A,N/A
+Reaktor,Design,Communication Services,16,8,N/A,N/A
+Bard College,Educational Services: College & Universities,Consumer Discretionary,8,6,N/A,N/A
+Bryant University,Educational Services: College & Universities,Consumer Discretionary,0,6,N/A,N/A
+California State University,Educational Services: College & Universities,Consumer Discretionary,4,12,N/A,N/A
+Capella University,Educational Services: College & Universities,Consumer Discretionary,12,4,N/A,N/A
+Case Western Reserve University,Educational Services: College & Universities,Consumer Discretionary,7,0,N/A,N/A
+Colorado State University,Educational Services: College & Universities,Consumer Discretionary,3,9,N/A,N/A
+Columbia University,Educational Services: College & Universities,Consumer Discretionary,6,12,N/A,N/A
+Columbia University Information Technology,Educational Services: College & Universities,Consumer Discretionary,6,6,N/A,N/A
+Dartmouth College,Educational Services: College & Universities,Consumer Discretionary,2,8,N/A,N/A
+Dickinson College,Educational Services: College & Universities,Consumer Discretionary,12,N/A,6,N/A
+Duke University,Educational Services: College & Universities,Consumer Discretionary,6,9,N/A,N/A
+Ferris State University,Educational Services: College & Universities,Consumer Discretionary,6,6,N/A,N/A
+Florida International University,Educational Services: College & Universities,Consumer Discretionary,6,12,N/A,N/A
+Georgetown University,Educational Services: College & Universities,Consumer Discretionary,8,0,N/A,N/A
+Griffith University,Educational Services: College & Universities,Consumer Discretionary,26,26,N/A,N/A
+Harvard Business School,Educational Services: College & Universities,Consumer Discretionary,16,7,N/A,N/A
+Harvard University,Educational Services: College & Universities,Consumer Discretionary,12,12,N/A,N/A
+Imperial College London,Educational Services: College & Universities,Consumer Discretionary,18,20,N/A,N/A
+Indiana University,Educational Services: College & Universities,Consumer Discretionary,6,12,N/A,N/A
+IUPUI,Educational Services: College & Universities,Consumer Discretionary,6,6,N/A,N/A
+Johns Hopkins University,Educational Services: College & Universities,Consumer Discretionary,10,12,N/A,N/A
+Johns Hopkins University Applied Physics Laboratory,Educational Services: College & Universities,Consumer Discretionary,2,26,N/A,N/A
+Lasell College,Educational Services: College & Universities,Consumer Discretionary,12,0,N/A,N/A
+Marquette University,Educational Services: College & Universities,Consumer Discretionary,8,0,N/A,N/A
+Medical University of South Carolina,Educational Services: College & Universities,Consumer Discretionary,6,6,N/A,N/A
+New York University,Educational Services: College & Universities,Consumer Discretionary,12,0,N/A,N/A
+Northeastern University,Educational Services: College & Universities,Consumer Discretionary,8,4,N/A,N/A
+Northwestern University,Educational Services: College & Universities,Consumer Discretionary,9,6,N/A,N/A
+NYU School of Medicine,Educational Services: College & Universities,Consumer Discretionary,5,24,N/A,N/A
+Rutgers University,Educational Services: College & Universities,Consumer Discretionary,6,12,N/A,N/A
+The George Washington University,Educational Services: College & Universities,Consumer Discretionary,6,2,N/A,N/A
+The Ohio State University,Educational Services: College & Universities,Consumer Discretionary,12,12,N/A,N/A
+Tufts University,Educational Services: College & Universities,Consumer Discretionary,12,4,N/A,N/A
+UCLA,Educational Services: College & Universities,Consumer Discretionary,13,9,N/A,N/A
+University at Buffalo,Educational Services: College & Universities,Consumer Discretionary,12,12,N/A,N/A
+University of Arizona,Educational Services: College & Universities,Consumer Discretionary,6,3,N/A,N/A
+University of British Columbia,Educational Services: College & Universities,Consumer Discretionary,52,0,N/A,N/A
+University of California Berkeley,Educational Services: College & Universities,Consumer Discretionary,12,12,N/A,N/A
+University of Massachusetts Amherst,Educational Services: College & Universities,Consumer Discretionary,12,24,N/A,N/A
+University of Michigan,Educational Services: College & Universities,Consumer Discretionary,12,12,N/A,N/A
+University of New Hampshire,Educational Services: College & Universities,Consumer Discretionary,12,0,N/A,N/A
+University of Notre Dame,Educational Services: College & Universities,Consumer Discretionary,12,12,N/A,N/A
+University of Tampa,Educational Services: College & Universities,Consumer Discretionary,6,6,N/A,N/A
+Utah State University,Educational Services: College & Universities,Consumer Discretionary,4,N/A,0,N/A
+Virgina Commonwealth University,Educational Services: College & Universities,Consumer Discretionary,4,4,N/A,N/A
+Webster University,Educational Services: College & Universities,Consumer Discretionary,6,6,N/A,N/A
+Wheaton College,Educational Services: College & Universities,Consumer Discretionary,4,0,N/A,N/A
+360DigiTMG,Educational Services: E-Learning,Consumer Discretionary,2,4,N/A,N/A
+Chegg,Educational Services: E-Learning,Consumer Discretionary,10,12,N/A,N/A
+Clever,Educational Services: E-Learning,Consumer Discretionary,12,0,N/A,N/A
+Degreed,Educational Services: E-Learning,Consumer Discretionary,32,46,N/A,N/A
+Imagine Learning,Educational Services: E-Learning,Consumer Discretionary,6,0,N/A,N/A
+Pluralsight,Educational Services: E-Learning,Consumer Discretionary,6,0,N/A,N/A
+Renaissance Learning,Educational Services: E-Learning,Consumer Discretionary,9,6,N/A,N/A
+Skillcrush,Educational Services: E-Learning,Consumer Discretionary,8,8,N/A,N/A
+Soomo Learning,Educational Services: E-Learning,Consumer Discretionary,12,0,N/A,N/A
+Zearn,Educational Services: E-Learning,Consumer Discretionary,12,4,N/A,N/A
+CIEE,Educational Services: Management,Consumer Discretionary,12,12,N/A,N/A
+General Assembly,Educational Services: Management,Consumer Discretionary,16,4,N/A,N/A
+NWEA,Educational Services: Management,Consumer Discretionary,8,52,N/A,N/A
+Prince William County Public Schools,Educational Services: Management,Consumer Discretionary,12,12,N/A,N/A
+Santa Fe Public Schools,Educational Services: Management,Consumer Discretionary,4,36,N/A,N/A
+Teachstone,Educational Services: Management,Consumer Discretionary,2,12,N/A,N/A
+The College Board,Educational Services: Management,Consumer Discretionary,8,8,N/A,N/A
+"ACT, Inc",Educational Services: Other,Consumer Discretionary,6,0,N/A,N/A
+British Council,Educational Services: Other,Consumer Discretionary,26,0,N/A,N/A
+Pearson,Educational Services: Other,Consumer Discretionary,8.5,8,N/A,N/A
+Savvas Learning Company,Educational Services: Other,Consumer Discretionary,3,12,N/A,N/A
+Texas A&M AgriLife Research,Educational Services: Other,Consumer Discretionary,26,0,N/A,N/A
+The Concord Consortium,Educational Services: Other,Consumer Discretionary,8,0,N/A,N/A
+KinderCare Learning Companies,Educational Services: Preschool,Consumer Discretionary,6,0,N/A,N/A
+Aperian Global,Educational Services: Professional Training,Consumer Discretionary,4,12,N/A,N/A
+Achievement First,Educational Services: School,Consumer Discretionary,42,14,N/A,N/A
+Cobb County School District,Educational Services: School,Consumer Discretionary,6,12,N/A,N/A
+Curtis Institute of Music,Educational Services: School,Consumer Discretionary,12,N/A,12,N/A
+Henderson Collegiate,Educational Services: School,Consumer Discretionary,9,3,N/A,N/A
+Humble Independent School District,Educational Services: School,Consumer Discretionary,12,0,N/A,N/A
+IDEA Public Schools,Educational Services: School,Consumer Discretionary,6,6,N/A,N/A
+Long Trail School,Educational Services: School,Consumer Discretionary,6,0,N/A,N/A
+San Francisco Unified School District,Educational Services: School,Consumer Discretionary,6,0,N/A,N/A
+The Meadowbrook School of Weston,Educational Services: School,Consumer Discretionary,12,0,N/A,N/A
+Creative Education Services,Educational Services: Tutoring,Consumer Discretionary,16,0,N/A,N/A
+Armada Technologies,Electronics: Manufacturing,Consumer Discretionary,2,10,N/A,N/A
+Bose,Electronics: Manufacturing,Consumer Discretionary,12,12,N/A,N/A
+Harman International Industries,Electronics: Manufacturing,Consumer Discretionary,12,0,N/A,N/A
+iRobot,Electronics: Manufacturing,Consumer Discretionary,15,0,N/A,N/A
+Keysight Technologies,Electronics: Manufacturing,Consumer Discretionary,8,52,N/A,N/A
+Legrand,Electronics: Manufacturing,Consumer Discretionary,12,2,N/A,N/A
+Maxim Integrated Products,Electronics: Manufacturing,Consumer Discretionary,8,12,N/A,N/A
+Philips,Electronics: Manufacturing,Consumer Discretionary,8,4,N/A,N/A
+Radar,Electronics: Manufacturing,Consumer Discretionary,12,0,N/A,N/A
+Sanmina,Electronics: Manufacturing,Consumer Discretionary,6,6,N/A,N/A
+Trane Technologies,Electronics: Manufacturing,Consumer Discretionary,11,0,N/A,N/A
+Reprise,Engineering,N/A,12,0,N/A,N/A
+Barclays,Finance,Financials,16,8,N/A,N/A
+Progressive Leasing,Finance,Financials,12,0,N/A,N/A
+Acorns,Finance: Asset Management,Financials,12,2,N/A,N/A
+AllianceBernstein LP,Finance: Asset Management,Financials,12,0,N/A,N/A
+American Century Investments,Finance: Asset Management,Financials,6,0,N/A,N/A
+American Endowment Foundation,Finance: Asset Management,Financials,0,12,N/A,N/A
+BNY Mellon,Finance: Asset Management,Financials,16,8,N/A,N/A
+Bridgewater Associates,Finance: Asset Management,Financials,11,29,N/A,N/A
+"Cantella & Co., Inc.",Finance: Asset Management,Financials,8,0,N/A,N/A
+Citadel,Finance: Asset Management,Financials,12,0,N/A,N/A
+Coller Capital Ltd.,Finance: Asset Management,Financials,6,12,N/A,N/A
+DWS,Finance: Asset Management,Financials,16,52,N/A,N/A
+Fisher Investments,Finance: Asset Management,Financials,8,8,N/A,N/A
+Gemini Trust Company,Finance: Asset Management,Financials,18,0,N/A,N/A
+Golub Capital,Finance: Asset Management,Financials,3,0,N/A,N/A
+Invesco,Finance: Asset Management,Financials,12,3,N/A,N/A
+North Star Resource Group,Finance: Asset Management,Financials,6,6,N/A,N/A
+The StepStone Group LP,Finance: Asset Management,Financials,16,4,N/A,N/A
+TIAA,Finance: Asset Management,Financials,16,0,N/A,N/A
+TPG Capital,Finance: Asset Management,Financials,16,0,N/A,N/A
+Trinity Lifetime,Finance: Asset Management,Financials,39,13,N/A,N/A
+Vanguard Group,Finance: Asset Management,Financials,10,0,N/A,N/A
+American Express,Finance: Credit & Fund Services,Financials,20,0,N/A,N/A
+American Honda Finance Corp,Finance: Credit & Fund Services,Financials,12,5,N/A,N/A
+Navy Federal Credit Union,Finance: Credit Unions,Financials,16,0,N/A,N/A
+Achieve,Finance: Diversified,Financials,4,8,N/A,N/A
+Andrew Davidson & Co,Finance: Diversified,Financials,12,0,N/A,N/A
+ASB Bank,Finance: Diversified,Financials,26,26,N/A,N/A
+Bank of America,Finance: Diversified,Financials,16,4,N/A,N/A
+BB&T Corporation,Finance: Diversified,Financials,6,2,N/A,N/A
+BBVA,Finance: Diversified,Financials,12,0,N/A,N/A
+BNP Paribas,Finance: Diversified,Financials,16,0,N/A,N/A
+Capital One,Finance: Diversified,Financials,18,0,N/A,N/A
+CAPTRUST,Finance: Diversified,Financials,2,14,N/A,N/A
+CME Group,Finance: Diversified,Financials,12,N/A,4,N/A
+Computershare,Finance: Diversified,Financials,7,3.5,N/A,N/A
+Credit Suisse,Finance: Diversified,Financials,20,2,N/A,N/A
+Digistream Investigations,Finance: Diversified,Financials,12,12,N/A,N/A
+Edward Jones,Finance: Diversified,Financials,16,3,N/A,N/A
+Fidelity Investments,Finance: Diversified,Financials,15,4,N/A,N/A
+First Citizens Bank,Finance: Diversified,Financials,4,6,N/A,N/A
+Geller & Company,Finance: Diversified,Financials,12,0,N/A,N/A
+HSBC,Finance: Diversified,Financials,19,0,N/A,N/A
+JMP Group LLC,Finance: Diversified,Financials,12,0,N/A,N/A
+JPMorgan Chase,Finance: Diversified,Financials,12.5,0,N/A,N/A
+Kasasa by BancVue,Finance: Diversified,Financials,12,0,N/A,N/A
+Lincoln Financial Group,Finance: Diversified,Financials,10,12,N/A,N/A
+Marsh McLennan,Finance: Diversified,Financials,8.5,8.5,N/A,N/A
+Morgan Stanley,Finance: Diversified,Financials,16,0,N/A,N/A
+Nomura,Finance: Diversified,Financials,16,N/A,2,N/A
+Scotiabank,Finance: Diversified,Financials,14,3,N/A,N/A
+Securian Financial Group Inc.,Finance: Diversified,Financials,12,0,N/A,N/A
+Standard Chartered,Finance: Diversified,Financials,20,N/A,2,N/A
+State Street Corporation,Finance: Diversified,Financials,8,2,N/A,N/A
+Stifel Nicolaus & Co.,Finance: Diversified,Financials,16,N/A,8,N/A
+USAA,Finance: Diversified,Financials,12,2,N/A,N/A
+Northwestern Mutual Ð Corporate Careers,Finance: Life,Financials,12,1,N/A,N/A
+Better Mortgage,Finance: Loans,Financials,16.5,13,N/A,N/A
+OneMain Financial,Finance: Loans,Financials,8,0,N/A,N/A
+Quicken Loans Inc.,Finance: Loans,Financials,6,1.5,N/A,N/A
+Veterans United Home Loans,Finance: Loans,Financials,8,0,N/A,N/A
+ANZ,Finance: Personal & Commercial Banking,Financials,12,52,N/A,N/A
+Bank of the West,Finance: Personal & Commercial Banking,Financials,16,12,N/A,N/A
+BMO Harris Bank,Finance: Personal & Commercial Banking,Financials,12,12,N/A,N/A
+CIT,Finance: Personal & Commercial Banking,Financials,20,8,N/A,N/A
+Citizens Bank,Finance: Personal & Commercial Banking,Financials,12,0,N/A,N/A
+Commonwealth Bank of Australia,Finance: Personal & Commercial Banking,Financials,12,52,N/A,N/A
+Federal Home Loan Bank Of New York,Finance: Personal & Commercial Banking,Financials,12,0,N/A,N/A
+Fifth Third Bank,Finance: Personal & Commercial Banking,Financials,9,6,N/A,N/A
+First Republic Bank,Finance: Personal & Commercial Banking,Financials,12,0,N/A,N/A
+Huntington Bank,Finance: Personal & Commercial Banking,Financials,4,8,N/A,N/A
+KeyBank,Finance: Personal & Commercial Banking,Financials,12,6,N/A,N/A
+M&T Bank Corporation,Finance: Personal & Commercial Banking,Financials,12,12,N/A,N/A
+Santander US,Finance: Personal & Commercial Banking,Financials,6,6,N/A,N/A
+SociŽtŽ GŽnŽrale,Finance: Personal & Commercial Banking,Financials,12,0,N/A,N/A
+Stanbic IBTC Bank,Finance: Personal & Commercial Banking,Financials,12,4,N/A,N/A
+SunTrust Banks,Finance: Personal & Commercial Banking,Financials,16,4,N/A,N/A
+U.S. Bank,Finance: Personal & Commercial Banking,Financials,13,0,N/A,N/A
+Union Bank,Finance: Personal & Commercial Banking,Financials,21,8,N/A,N/A
+Vanquis Bank,Finance: Personal & Commercial Banking,Financials,20,26,N/A,N/A
+Wintrust Financial Corporation,Finance: Personal & Commercial Banking,Financials,10,2,N/A,N/A
+"Adams Street Partners, LLC",Finance: Venture Capital,Financials,12,2,N/A,N/A
+"Guggenheim Partners, LLC",Finance: Venture Capital,Financials,18,N/A,18,N/A
+City of Virginia Beach,Government: City,N/A,6,0,N/A,N/A
+New York City,Government: City,N/A,12,4,N/A,N/A
+New York City Economic Development Corporation,Government: City,N/A,6,1,N/A,N/A
+The City of Portland,Government: City,N/A,6,6,N/A,N/A
+The City of San Antonio,Government: City,N/A,6,6,N/A,N/A
+Peraton,Government: Contractor,Industrials,1.5,12,N/A,N/A
+Marion County Sheriff's Office,Government: County,N/A,13,20,N/A,N/A
+"Multnomah County, Oregon",Government: County,N/A,12,0,N/A,N/A
+Spokane County,Government: County,N/A,52,26,N/A,N/A
+Corporation for National and Community Service,Government: Federal,N/A,0,0,N/A,N/A
+Federal Deposit Insurance Corporation,Government: Federal,N/A,12,12,N/A,N/A
+Federal Public Defender,Government: Federal,N/A,12,0,N/A,N/A
+Federal Reserve Bank of New York,Government: Federal,N/A,8,8,N/A,N/A
+Los Alamos National Laboratory,Government: Federal,N/A,3,12,N/A,N/A
+NASA Jet Propulsion Laboratory,Government: Federal,N/A,12,0,N/A,N/A
+Naval Medical Center Portsmouth,Government: Federal,N/A,46,0,N/A,N/A
+NavSea,Government: Federal,N/A,11,6,N/A,N/A
+NSA,Government: Federal,N/A,8,6.5,N/A,N/A
+The United States Air Force,Government: Federal,N/A,12,0,N/A,N/A
+U.S. Department of Education,Government: Federal,N/A,0,12,N/A,N/A
+U.S. Department of Veterans Affairs,Government: Federal,N/A,11,11,N/A,N/A
+U.S. Social Security Administration,Government: Federal,N/A,6,12,N/A,N/A
+United States Army,Government: Federal,N/A,6,0,N/A,N/A
+United States Department of State,Government: Federal,N/A,9,15,N/A,N/A
+United States Trade and Development Agency,Government: Federal,N/A,12,0,N/A,N/A
+USAID,Government: Federal,N/A,6,0,N/A,N/A
+United Nations,Government: International,N/A,4,0,N/A,N/A
+World Health Organization,Government: International,N/A,24,52,N/A,N/A
+Commonwealth of Massachusetts,Government: State,N/A,2,24,N/A,N/A
+DBPR,Government: State,N/A,12,0,N/A,N/A
+State of North Carolina,Government: State,N/A,12,0,N/A,N/A
+Companion Animal Hospital Partners,Healthcare: Animal Health,Health Care,6,6,N/A,N/A
+Veterinary Emergency Group,Healthcare: Animal Health,Health Care,6,6,N/A,N/A
+Zoetis,Healthcare: Animal Health,Health Care,2,0,N/A,N/A
+Beacon Health Options,Healthcare: Behavioral,Health Care,4,6,N/A,N/A
+Ambry Genetics,Healthcare: Biotechnology,Health Care,6,0,N/A,N/A
+Biogen,Healthcare: Biotechnology,Health Care,12,6,N/A,N/A
+bioMerieux,Healthcare: Biotechnology,Health Care,12,0,N/A,N/A
+Bolt Threads,Healthcare: Biotechnology,Health Care,12,0,N/A,N/A
+Charles River Laboratories,Healthcare: Biotechnology,Health Care,9,3,N/A,N/A
+Genentech,Healthcare: Biotechnology,Health Care,12,0,N/A,N/A
+"Gilead Sciences, Inc.",Healthcare: Biotechnology,Health Care,12,6,N/A,N/A
+Idexx Laboratories,Healthcare: Biotechnology,Health Care,12,8,N/A,N/A
+NanoString Technologies,Healthcare: Biotechnology,Health Care,12,0,N/A,N/A
+Nova Biomedical,Healthcare: Biotechnology,Health Care,6,6,N/A,N/A
+Novozymes,Healthcare: Biotechnology,Health Care,17,0,N/A,N/A
+Promega Corporation,Healthcare: Biotechnology,Health Care,4,0,N/A,N/A
+SCIEX,Healthcare: Biotechnology,Health Care,15,26,N/A,N/A
+Bupa,Healthcare: Diversified,Health Care,14,36,N/A,N/A
+Call9,Healthcare: Diversified,Health Care,8,4,N/A,N/A
+Saint Francis Medical Center,Healthcare: Diversified,Health Care,6,0,N/A,N/A
+BAYADA,Healthcare: Family Care,Health Care,0,N/A,0,N/A
+Inspire Wellness,Healthcare: Family Care,Health Care,12,6,N/A,N/A
+Landmark Health,Healthcare: Family Care,Health Care,4,8,N/A,N/A
+Southwest Idaho Treatment Center,Healthcare: Family Care,Health Care,12,0,N/A,N/A
+Ascension Health,Healthcare: Hospitals & Clinics,Health Care,8,0,N/A,N/A
+Baptist Health System,Healthcare: Hospitals & Clinics,Health Care,12,0,N/A,N/A
+Bon Secours Mercy Health,Healthcare: Hospitals & Clinics,Health Care,8,8,N/A,N/A
+Central Maine Medical Center,Healthcare: Hospitals & Clinics,Health Care,12,0,N/A,N/A
+Children's Hospital of Pittsburgh of UPMC,Healthcare: Hospitals & Clinics,Health Care,2,10,N/A,N/A
+Children's Wisconsin,Healthcare: Hospitals & Clinics,Health Care,0,12,N/A,N/A
+Christiana Care Health System,Healthcare: Hospitals & Clinics,Health Care,6,6,N/A,N/A
+Cincinnati Children's Hospital Medical Center,Healthcare: Hospitals & Clinics,Health Care,12,0,N/A,N/A
+Duke Health,Healthcare: Hospitals & Clinics,Health Care,6,6,N/A,N/A
+Everett Clinic,Healthcare: Hospitals & Clinics,Health Care,12,0,N/A,N/A
+Houston Methodist Hospital,Healthcare: Hospitals & Clinics,Health Care,6,6,N/A,N/A
+Johns Hopkins All Children's Hospital,Healthcare: Hospitals & Clinics,Health Care,8,0,N/A,N/A
+Lovelace Health System,Healthcare: Hospitals & Clinics,Health Care,0,6,N/A,N/A
+Mercy,Healthcare: Hospitals & Clinics,Health Care,4,1,N/A,N/A
+MetroHealth Medical Center,Healthcare: Hospitals & Clinics,Health Care,12,0,N/A,N/A
+Michigan Medicine,Healthcare: Hospitals & Clinics,Health Care,6,0,N/A,N/A
+Molina Healthcare,Healthcare: Hospitals & Clinics,Health Care,6,0,N/A,N/A
+Montefiore Medical Center,Healthcare: Hospitals & Clinics,Health Care,0,N/A,0,N/A
+Moses Cone,Healthcare: Hospitals & Clinics,Health Care,0,N/A,N/A,0
+New Century Health,Healthcare: Hospitals & Clinics,Health Care,12,0,N/A,N/A
+New York State Psychiatric Institute,Healthcare: Hospitals & Clinics,Health Care,12,0,N/A,N/A
+Northwell Health,Healthcare: Hospitals & Clinics,Health Care,0,12,N/A,N/A
+NYU Langone Health,Healthcare: Hospitals & Clinics,Health Care,9.5,6,N/A,N/A
+Partners Healthcare,Healthcare: Hospitals & Clinics,Health Care,8,4,N/A,N/A
+Penn Medicine,Healthcare: Hospitals & Clinics,Health Care,6,6,N/A,N/A
+Providence,Healthcare: Hospitals & Clinics,Health Care,8,12,N/A,N/A
+Temple University Hospital,Healthcare: Hospitals & Clinics,Health Care,0,12,N/A,N/A
+Texas Children's Hospital,Healthcare: Hospitals & Clinics,Health Care,0,0,N/A,N/A
+LabCorp,Healthcare: Laboratory Testing,Health Care,6,12,N/A,N/A
+Aeroflow Healthcare,Healthcare: Medical Devices,Health Care,6,4,N/A,N/A
+Aquilant,Healthcare: Medical Devices,Health Care,39,13,N/A,N/A
+BD,Healthcare: Medical Devices,Health Care,12,4,N/A,N/A
+Boston Scientific,Healthcare: Medical Devices,Health Care,12,0,N/A,N/A
+Cook Medical,Healthcare: Medical Devices,Health Care,10,6,N/A,N/A
+Hillrom,Healthcare: Medical Devices,Health Care,12,4,N/A,N/A
+Integra LifeSciences,Healthcare: Medical Devices,Health Care,10,12,N/A,N/A
+Intuitive,Healthcare: Medical Devices,Health Care,6,6,N/A,N/A
+Medela,Healthcare: Medical Devices,Health Care,12,0,N/A,N/A
+MicroPort Orthopedics,Healthcare: Medical Devices,Health Care,6,10,N/A,N/A
+Olympus Corporation,Healthcare: Medical Devices,Health Care,4,1,N/A,N/A
+ResMed,Healthcare: Medical Devices,Health Care,14,0,N/A,N/A
+Stryker Corporation,Healthcare: Medical Devices,Health Care,12,2,N/A,N/A
+Terumo BCT,Healthcare: Medical Devices,Health Care,9,18,N/A,N/A
+J&J MedTech,Healthcare: Products,Health Care,8,0,N/A,N/A
+SmileDirectClub,Healthcare: Products,Health Care,8,4,N/A,N/A
+Be The Match,Healthcare: Services,Health Care,6,6,N/A,N/A
+Cardinal Health,Healthcare: Services,Health Care,4,9,N/A,N/A
+GE Healthcare Systems,Healthcare: Services,Health Care,12,4,N/A,N/A
+Heartland Dental,Healthcare: Services,Health Care,6,12,N/A,N/A
+Lumeris,Healthcare: Services,Health Care,6,0,N/A,N/A
+McKesson Specialty Health,Healthcare: Services,Health Care,12,4,N/A,N/A
+Optum,Healthcare: Services,Health Care,8,3,N/A,N/A
+Spectra,Hospitality,Consumer Discretionary,12,12,N/A,N/A
+Gordon Food Service,Hospitality: Foodservice Distributors,Consumer Discretionary,1,0,N/A,N/A
+Hilton,Hospitality: Hotels,Consumer Discretionary,12,6,N/A,N/A
+Hyatt,Hospitality: Hotels,Consumer Discretionary,8,0,N/A,N/A
+Rosewood Hotels & Resorts,Hospitality: Hotels,Consumer Discretionary,2,0,N/A,N/A
+Taj Hotels,Hospitality: Hotels,Consumer Discretionary,12,26,N/A,N/A
+Blue Apron,Hospitality: Meal Kit Delivery,Consumer Discretionary,12,0,N/A,N/A
+Disneyland,Hospitality: Resorts,Consumer Discretionary,8,0,N/A,N/A
+Great Wolf Resorts,Hospitality: Resorts,Consumer Discretionary,8,0,N/A,N/A
+Hilton Grand Vacations,Hospitality: Resorts,Consumer Discretionary,8,8,N/A,N/A
+Vail Resorts,Hospitality: Resorts,Consumer Discretionary,4,2,N/A,N/A
+Chick-fil-A,Hospitality: Restaurants,Consumer Discretionary,6,N/A,2,N/A
+Chipotle Mexican Grill,Hospitality: Restaurants,Consumer Discretionary,12,0,N/A,N/A
+Gate Gourmet,Hospitality: Restaurants,Consumer Discretionary,6,12,N/A,N/A
+La Colombe Torrefaction,Hospitality: Restaurants,Consumer Discretionary,6,30,N/A,N/A
+Momofuku,Hospitality: Restaurants,Consumer Discretionary,4,8,N/A,N/A
+Red Robin,Hospitality: Restaurants,Consumer Discretionary,0,12,N/A,N/A
+Restaurant Brands International,Hospitality: Restaurants,Consumer Discretionary,16,0,N/A,N/A
+Texas Roadhouse,Hospitality: Restaurants,Consumer Discretionary,6,11,N/A,N/A
+Ergotron,Industrial: Appliances & Furniture,Consumer Discretionary,12,6,N/A,N/A
+Stanley Black & Decker,Industrial: Appliances & Furniture,Consumer Discretionary,2,16,N/A,N/A
+Steelcase,Industrial: Appliances & Furniture,Consumer Discretionary,10.5,27.5,N/A,N/A
+Whirlpool Corporation,Industrial: Appliances & Furniture,Consumer Discretionary,12,4,N/A,N/A
+Deborah Berke Partners,Industrial: Architecture & Design,Consumer Discretionary,6,4,N/A,N/A
+Grimshaw Architects,Industrial: Architecture & Design,Consumer Discretionary,5,10,N/A,N/A
+Hickok Cole Architects,Industrial: Architecture & Design,Consumer Discretionary,12,8,N/A,N/A
+HOK,Industrial: Architecture & Design,Consumer Discretionary,6,N/A,2,N/A
+MG2,Industrial: Architecture & Design,Consumer Discretionary,6,6,N/A,N/A
+CertainTeed,Industrial: Building Materials Manufacturing,Materials,12,12,N/A,N/A
+Construction Specialties,Industrial: Building Materials Manufacturing,Materials,6,12,N/A,N/A
+Daltile,Industrial: Building Materials Manufacturing,Materials,0,12,N/A,N/A
+GAF,Industrial: Building Materials Manufacturing,Materials,6,12,N/A,N/A
+Lehigh Hanson,Industrial: Building Materials Manufacturing,Materials,6,6,N/A,N/A
+Sherwin-Williams,Industrial: Building Materials Manufacturing,Materials,8,4,N/A,N/A
+Wilsonart,Industrial: Building Materials Manufacturing,Materials,6,12,N/A,N/A
+Graham Construction & Engineering Inc,Industrial: Construction Company,Industrials,12,52,N/A,N/A
+"CIRCOR International, Inc.",Industrial: Diversified,Industrials,12,12,N/A,N/A
+Danaher,Industrial: Diversified,Industrials,8,6,N/A,N/A
+Eaton,Industrial: Diversified,Industrials,12,0,N/A,N/A
+Faith Technologies,Industrial: Diversified,Industrials,8,4,N/A,N/A
+HDR,Industrial: Diversified,Industrials,2,8,N/A,N/A
+Honeywell,Industrial: Diversified,Industrials,4,12,N/A,N/A
+Jacobs,Industrial: Diversified,Industrials,1,8,N/A,N/A
+Jason Industrial,Industrial: Diversified,Industrials,12,0,N/A,N/A
+Babcock International Group,Industrial: Engineering,Industrials,12,0,N/A,N/A
+Emerson Process Management,Industrial: Engineering,Industrials,12,0,N/A,N/A
+Equinor,Industrial: Engineering,Industrials,16,2,N/A,N/A
+GZA,Industrial: Engineering,Industrials,4,0,N/A,N/A
+Pfaudler inc,Industrial: Engineering,Industrials,10,0,N/A,N/A
+Quiddity Engineering,Industrial: Engineering,Industrials,2,6,N/A,N/A
+Stantec,Industrial: Engineering,Industrials,6,12,N/A,N/A
+Subsea 7,Industrial: Engineering,Industrials,12,0,N/A,N/A
+WSP Global,Industrial: Engineering,Industrials,2,12,N/A,N/A
+Xylem Inc.,Industrial: Engineering,Industrials,4,0,N/A,N/A
+AGCO Corporation,Industrial: Equipment Manufacturing,Industrials,6,6,N/A,N/A
+Association of Equipment Manufacturers,Industrial: Equipment Manufacturing,Industrials,6,6,N/A,N/A
+"Atlantic Diving Supply, Inc.",Industrial: Equipment Manufacturing,Industrials,6,6,N/A,N/A
+Emerson Climate Technologies,Industrial: Equipment Manufacturing,Industrials,12,N/A,2,N/A
+Genie Industries,Industrial: Equipment Manufacturing,Industrials,12,12,N/A,N/A
+ITW,Industrial: Equipment Manufacturing,Industrials,7,0,N/A,N/A
+KONE Corporation,Industrial: Equipment Manufacturing,Industrials,9,0,N/A,N/A
+Terex,Industrial: Equipment Manufacturing,Industrials,10,2,N/A,N/A
+Weir ESCO,Industrial: Equipment Manufacturing,Industrials,1,12,N/A,N/A
+Zoox,Industrial: Equipment Manufacturing,Consumer Discretionary,12,0,N/A,N/A
+"Aleris International, Inc.",Industrial: Materials,Materials,4,0,N/A,N/A
+Avantor,Industrial: Materials,Health Care,4,0,N/A,N/A
+HP Manufacturing,Industrial: Materials,Materials,6,6,N/A,N/A
+Orica,Industrial: Materials,Energy,12,0,N/A,N/A
+W.L. Gore,Industrial: Materials,Materials,12,12,N/A,N/A
+Grainger Industrial Supply,Industrial: Other,Industrials,9,6,N/A,N/A
+Hunter Douglas,Industrial: Other,Industrials,6,6,N/A,N/A
+United Rentals,Industrial: Other,Industrials,6,7.5,N/A,N/A
+Bloomberg,Information Services: Diversified,Financials,26,0,N/A,N/A
+Nielsen Holdings N.V.,Information Services: Diversified,Financials,9,3,N/A,N/A
+RELX Group,Information Services: Diversified,Information Technology,13,20,N/A,N/A
+WinBizSolutions,Information Services: Diversified,Information Technology,16,0,N/A,N/A
+Wolters Kluwer,Information Services: Diversified,Information Technology,2,6,N/A,N/A
+Dun & Bradstreet,Information Services: Financial,Financials,15,20,N/A,N/A
+Experian PLC,Information Services: Financial,Financials,15,2.5,N/A,N/A
+Fitch Ratings,Information Services: Financial,Financials,12,0,N/A,N/A
+Ipreo Holdings LLC,Information Services: Financial,Financials,24,8,N/A,N/A
+NASDAQ,Information Services: Financial,Financials,15,0,N/A,N/A
+TransUnion,Information Services: Financial,Financials,17,0,N/A,N/A
+Bloomberg BNA,Information Services: Legal,Financials,12,10,N/A,N/A
+1010data,Information Services: Technology,Information Technology,12,8,N/A,N/A
+Avanade,Information Services: Technology,Information Technology,16,1.5,N/A,N/A
+Cloudreach,Information Services: Technology,Information Technology,12,0,N/A,N/A
+Dataminr,Information Services: Technology,Information Technology,16,0,N/A,N/A
+Dell Boomi,Information Services: Technology,Information Technology,12,N/A,12,N/A
+"DoubleVerify, Inc.",Information Services: Technology,Information Technology,10,8,N/A,N/A
+Emids,Information Services: Technology,Information Technology,5,0,N/A,N/A
+Equian,Information Services: Technology,Information Technology,3,3,N/A,N/A
+Eras Tech,Information Services: Technology,Information Technology,26,0,N/A,N/A
+Gartner,Information Services: Technology,Information Technology,12,0,N/A,N/A
+Google Cloud,Information Services: Technology,Information Technology,18.5,32.5,N/A,N/A
+HealthStream,Information Services: Technology,Health Care,6,12,N/A,N/A
+Hitachi Vantara,Information Services: Technology,Information Technology,12,0,N/A,N/A
+Infolock,Information Services: Technology,Information Technology,12,0,N/A,N/A
+Infosys,Information Services: Technology,Information Technology,1.5,1,N/A,N/A
+J2 Global,Information Services: Technology,Information Technology,16,0,N/A,N/A
+LeverX,Information Services: Technology,Information Technology,52,0,N/A,N/A
+LexisNexis,Information Services: Technology,Information Technology,14,0,N/A,N/A
+Lloyd Group,Information Services: Technology,Information Technology,3,0,N/A,N/A
+LMT Technology Solutions,Information Services: Technology,Information Technology,12,0,N/A,N/A
+Microsoft Azure,Information Services: Technology,Information Technology,16,4,N/A,N/A
+NetImpact Strategies,Information Services: Technology,Information Technology,4,12,N/A,N/A
+Newfold Digital,Information Services: Technology,Information Technology,12,12,N/A,N/A
+Niche,Information Services: Technology,Information Technology,4,12,N/A,N/A
+NielsenIQ,Information Services: Technology,Information Technology,20,0,N/A,N/A
+OM1,Information Services: Technology,Information Technology,4,0,N/A,N/A
+OPTIMIZERx Corporation,Information Services: Technology,Information Technology,4,8,N/A,N/A
+PatientPop,Information Services: Technology,Information Technology,12,12,N/A,N/A
+Publicis Sapient,Information Services: Technology,Information Technology,12,4,N/A,N/A
+Remind,Information Services: Technology,Information Technology,16,0,N/A,N/A
+RF Code,Information Services: Technology,Information Technology,6,6,N/A,N/A
+Siemens Healthineers,Information Services: Technology,Health Care,12,0,N/A,N/A
+Smarsh,Information Services: Technology,Information Technology,2,4,N/A,N/A
+SpotX,Information Services: Technology,Information Technology,9,6,N/A,N/A
+Surescripts,Information Services: Technology,Information Technology,10,2,N/A,N/A
+The Gordian Group,Information Services: Technology,Information Technology,8,12,N/A,N/A
+TriNet,Information Services: Technology,Information Technology,12,4,N/A,N/A
+Verisk Analytics,Information Services: Technology,Information Technology,10,4,N/A,N/A
+VTS,Information Services: Technology,Information Technology,18,0,N/A,N/A
+WP Engine,Information Services: Technology,Information Technology,16,0,N/A,N/A
+ZoomInfo,Information Services: Technology,Information Technology,12,0,N/A,N/A
+Marsh & McLennan Agency,Insurance,Financials,2,10,N/A,N/A
+Hub International,Insurance: Brokerage,Financials,6,4,N/A,N/A
+USI Insurance Services,Insurance: Brokerage,Financials,2,10,N/A,N/A
+Willis Towers Watson,Insurance: Brokerage,Financials,4,12.5,N/A,N/A
+AmeriTrust Group,Insurance: Diversified,Financials,4,8,N/A,N/A
+Aspen Insurance Holdings Limited,Insurance: Diversified,Financials,16,0,N/A,N/A
+CUNA Mutual Group,Insurance: Diversified,Financials,8,N/A,12,N/A
+First American,Insurance: Diversified,Financials,6,12,N/A,N/A
+Hiscox,Insurance: Diversified,Financials,12,0,N/A,N/A
+IAG Limited,Insurance: Diversified,Financials,12,40,N/A,N/A
+Lockton Companies Inc.,Insurance: Diversified,Financials,12,0,N/A,N/A
+MassMutual,Insurance: Diversified,Financials,8,12,N/A,N/A
+MJ Insurance,Insurance: Diversified,Financials,2,10,N/A,N/A
+Sana Benefits,Insurance: Diversified,Financials,13,13,N/A,N/A
+Sun Life Financial,Insurance: Diversified,Financials,16,0,N/A,N/A
+The McGowan Companies Inc.,Insurance: Diversified,Financials,12,12,N/A,N/A
+Trustmark Companies,Insurance: Diversified,Financials,6,6,N/A,N/A
+Anthem,Insurance: Health,Financials,0,6,N/A,N/A
+Blue Cross and Blue Shield of Texas,Insurance: Health,Financials,6,0,N/A,N/A
+Blue Cross Blue Shield of Alabama,Insurance: Health,Financials,6,6,N/A,N/A
+Cambia Health Solutions,Insurance: Health,Financials,12,0,N/A,N/A
+CareFirst,Insurance: Health,Financials,6,5,N/A,N/A
+CareSource,Insurance: Health,Financials,12,0,N/A,N/A
+Centene Corporation,Insurance: Health,Financials,3,7.5,N/A,N/A
+CIGNA Corporation,Insurance: Health,Financials,6,4,N/A,N/A
+Clover Health,Insurance: Health,Financials,6,8,N/A,N/A
+Delta Dental Ins,Insurance: Health,Financials,6,8,N/A,N/A
+GoHealth,Insurance: Health,Financials,6,6,N/A,N/A
+Independence Blue Cross,Insurance: Health,Financials,12,7,N/A,N/A
+Oscar Health,Insurance: Health,Financials,16,0,N/A,N/A
+Premera Blue Cross,Insurance: Health,Financials,12,0,N/A,N/A
+UCare,Insurance: Health,Financials,12,5,N/A,N/A
+UnitedHealthcare,Insurance: Health,Financials,4,4,N/A,N/A
+WellCare Health Plans,Insurance: Health,Financials,6,6,N/A,N/A
+American Income Life,Insurance: Life,Financials,52,0,N/A,N/A
+"Genworth Financial, Inc.",Insurance: Life,Financials,12,0,N/A,N/A
+GuardianLife,Insurance: Life,Financials,7,7,N/A,N/A
+MetLife,Insurance: Life,Financials,5,0,N/A,N/A
+National Benefit Life Insurance,Insurance: Life,Financials,13,15,N/A,N/A
+New York Life Insurance Company,Insurance: Life,Financials,12,12,N/A,N/A
+Prudential Financial,Insurance: Life,Financials,10,16,N/A,N/A
+Unum,Insurance: Life,Financials,6,23,N/A,N/A
+Allstate Insurance Company,Insurance: Property & Casualty,Financials,6,0,N/A,N/A
+American Family Insurance,Insurance: Property & Casualty,Financials,12,2,N/A,N/A
+"Assurant, Inc.",Insurance: Property & Casualty,Financials,4,2,N/A,N/A
+Farmers Insurance,Insurance: Property & Casualty,Financials,12,16,N/A,N/A
+FM Global,Insurance: Property & Casualty,Financials,4,2,N/A,N/A
+GEICO,Insurance: Property & Casualty,Financials,10,0,N/A,N/A
+IAT Insurance Group,Insurance: Property & Casualty,Financials,2,12,N/A,N/A
+Intact Financial Corporation,Insurance: Property & Casualty,Financials,52,0,N/A,N/A
+Liberty Mutual Insurance,Insurance: Property & Casualty,Financials,16,0,N/A,N/A
+Progressive Corporation,Insurance: Property & Casualty,Financials,7.5,16,N/A,N/A
+Selective Insurance,Insurance: Property & Casualty,Financials,2,12,N/A,N/A
+The Hartford,Insurance: Property & Casualty,Financials,4.5,6,N/A,N/A
+Travelers,Insurance: Property & Casualty,Financials,2,8,N/A,N/A
+Guy Carpenter,Insurance: Reinsurance,Financials,8,12,N/A,N/A
+Burr & Forman LLP,Law Firm,Consumer Discretionary,4,4,N/A,N/A
+Cleary Gottlieb Steen & Hamilton LLP,Law Firm,Consumer Discretionary,16,26,N/A,N/A
+Cooley LLP,Law Firm,Consumer Discretionary,24,12,N/A,N/A
+"Correia & Puth, PLLC",Law Firm,Consumer Discretionary,6,10,N/A,N/A
+Covington & Burling LLP,Law Firm,Consumer Discretionary,16,0,N/A,N/A
+Crowell & Moring,Law Firm,Consumer Discretionary,4,0,N/A,N/A
+Davis & Santos,Law Firm,Consumer Discretionary,3,2,N/A,N/A
+Desmarais LLP,Law Firm,Consumer Discretionary,12,0,N/A,N/A
+Entwistle & Cappucci LLC,Law Firm,Consumer Discretionary,8,10,N/A,N/A
+Fox Rothschild LLP,Law Firm,Consumer Discretionary,12,0,N/A,N/A
+Fragomen,Law Firm,Consumer Discretionary,6,6,N/A,N/A
+Hogan Lovells,Law Firm,Consumer Discretionary,20,6,N/A,N/A
+Hudson Cook,Law Firm,Consumer Discretionary,6,0,N/A,N/A
+Kirkland & Ellis LLP,Law Firm,Consumer Discretionary,18,0,N/A,N/A
+Latham & Watkins LLP,Law Firm,Consumer Discretionary,12,0,N/A,N/A
+Lathrop GPM LLP,Law Firm,Consumer Discretionary,16,0,N/A,N/A
+Linklaters LLP,Law Firm,Consumer Discretionary,18,0,N/A,N/A
+Littler Mendelson P.C.,Law Firm,Consumer Discretionary,12,0,N/A,N/A
+"Manatt, Phelps & Phillips, LLP",Law Firm,Consumer Discretionary,12,29,N/A,N/A
+Mayer Brown,Law Firm,Consumer Discretionary,0,N/A,0,N/A
+McLane Middleton PA,Law Firm,Consumer Discretionary,6,6,N/A,N/A
+Mintz Levin Cohn Ferris Glovsky and Popeo PC,Law Firm,Consumer Discretionary,17,0,N/A,N/A
+Schlam Stone & Dolan,Law Firm,Consumer Discretionary,12,4,N/A,N/A
+Simpson Thacher & Bartlett LLP,Law Firm,Consumer Discretionary,16,10,N/A,N/A
+Veritas Law,Law Firm,Consumer Discretionary,52,0,N/A,N/A
+Wynyard Wood,Law Firm,Consumer Discretionary,26,52,N/A,N/A
+HBR Consulting,Legal Services,Consumer Discretionary,4,3,N/A,N/A
+Cruise Planners,"Leisure, Travel & Tourism",Consumer Discretionary,3,0,N/A,N/A
+Royal Caribbean International,"Leisure, Travel & Tourism",Consumer Discretionary,4,2,N/A,N/A
+VRBO,"Leisure, Travel & Tourism",Consumer Discretionary,18,0,N/A,N/A
+BrightTALK,Media,Communication Services,12,12,N/A,N/A
+CondŽ Nast,Media: Diversified,Communication Services,4,0,N/A,N/A
+Meredith,Media: Diversified,Communication Services,12,12,N/A,N/A
+NBCUniversal,Media: Diversified,Communication Services,16,4,N/A,N/A
+Quartz,Media: Diversified,Communication Services,2,0,N/A,N/A
+Sky PLC,Media: Diversified,Communication Services,26,N/A,6,N/A
+Thomson Reuters,Media: Diversified,Communication Services,12,10,N/A,N/A
+Townsquare Media,Media: Diversified,Communication Services,12,0,N/A,N/A
+Viacom Inc.,Media: Diversified,Communication Services,10,2.5,N/A,N/A
+ViacomCBS,Media: Diversified,Communication Services,4,6,N/A,N/A
+WGBH,Media: Diversified,Communication Services,4,12,N/A,N/A
+Cinemark,Media: Entertainment,Communication Services,1,12,N/A,N/A
+Lionsgate,Media: Entertainment,Communication Services,20,0,N/A,N/A
+Madison Square Garden,Media: Entertainment,Communication Services,12,0,N/A,N/A
+Showtime,Media: Entertainment,Communication Services,12,3,N/A,N/A
+Spins,Media: Magazines,Communication Services,6,0,N/A,N/A
+The Atlantic,Media: Magazines,Communication Services,12,4,N/A,N/A
+Business Insider,Media: News,Communication Services,12,0,N/A,N/A
+Dow Jones,Media: News,Communication Services,20,12,N/A,N/A
+Forbes,Media: News,Communication Services,12,0,N/A,N/A
+Gannett,Media: News,Communication Services,2,12,N/A,N/A
+New York Times,Media: News,Communication Services,16,16,N/A,N/A
+The New York Times Company,Media: News,Communication Services,20,20,N/A,N/A
+Washington Post,Media: News,Communication Services,18,0,N/A,N/A
+Public Broadcasting Service,Media: Television,Communication Services,12,0,N/A,N/A
+Sinclair Broadcast Group,Media: Television,Communication Services,6,0,N/A,N/A
+ASML,N/A,Information Technology,52,40,N/A,N/A
+INK Communications Co.,N/A,Communication Services,10,2,N/A,N/A
+Rokt,N/A,Financials,15,0,N/A,N/A
+Bunge North America,Natural Resources: Agriculture and Food Processing,Consumer Staples,0,6,N/A,N/A
+Pilgrim's Pride,Natural Resources: Agriculture and Food Processing,Consumer Staples,6,0,N/A,N/A
+Tate & Lyle,Natural Resources: Agriculture and Food Processing,Consumer Staples,20.5,13,N/A,N/A
+CHS Inc.,Natural Resources: Agrochemical,Materials,0,16,N/A,N/A
+"Air Products & Chemicals, Inc.",Natural Resources: Chemicals,Materials,4,8,N/A,N/A
+AkzoNobel Global,Natural Resources: Chemicals,Materials,12,12,N/A,N/A
+Albemarle Corporation,Natural Resources: Chemicals,Materials,7,5,N/A,N/A
+"Ashland, Inc.",Natural Resources: Chemicals,Materials,6,18,N/A,N/A
+DuPont,Natural Resources: Chemicals,Materials,16,12,N/A,N/A
+Eastman Chemical Company,Natural Resources: Chemicals,Materials,4,6,N/A,N/A
+LyondellBasell,Natural Resources: Chemicals,Materials,0,12,N/A,N/A
+"Nalco, An Ecolab Company",Natural Resources: Chemicals,Materials,24,0,N/A,N/A
+Nutrien,Natural Resources: Chemicals,Materials,12,26,N/A,N/A
+Solvay S.A.,Natural Resources: Chemicals,Materials,16,12,N/A,N/A
+Syngenta Flowers,Natural Resources: Chemicals,Materials,6,0,N/A,N/A
+CLEAResult,Natural Resources: Diversified Energy,Utilities,2,10,N/A,N/A
+Consolidated Edison Inc.,Natural Resources: Diversified Energy,Utilities,10,16,N/A,N/A
+Entergy Corporation,Natural Resources: Diversified Energy,Utilities,6,0,N/A,N/A
+"NRG Energy, Inc.",Natural Resources: Diversified Energy,Utilities,6,6,N/A,N/A
+Eversource,Natural Resources: Electric & Gas Utility,Utilities,8,4,N/A,N/A
+GE Power,Natural Resources: Electric & Gas Utility,Utilities,24,20,N/A,N/A
+National Grid plc,Natural Resources: Electric & Gas Utility,Utilities,26,13,N/A,N/A
+NiSource,Natural Resources: Electric & Gas Utility,Utilities,26,26,N/A,N/A
+Sempra Energy,Natural Resources: Electric & Gas Utility,Utilities,12,0,N/A,N/A
+Williams,Natural Resources: Electric & Gas Utility,Utilities,10.5,0,N/A,N/A
+"American Electric Power Company, Inc.",Natural Resources: Electric Power Generation,Utilities,8,N/A,2,N/A
+Duke Energy,Natural Resources: Electric Power Generation,Utilities,13,1.5,N/A,N/A
+Exelon Corporation,Natural Resources: Electric Power Generation,Utilities,16,24,N/A,N/A
+Pacific Gas and Electric Company,Natural Resources: Electric Power Generation,Utilities,12,26,N/A,N/A
+Southern California Edison,Natural Resources: Electric Power Generation,Utilities,8,12,N/A,N/A
+Freeport-McMoRan,Natural Resources: Metals & Mining,Materials,26,0,N/A,N/A
+Novelis,Natural Resources: Metals & Mining,Materials,8,0,N/A,N/A
+"Enbridge, Inc.",Natural Resources: Oil & Gas,Energy,6,12,N/A,N/A
+ExxonMobil,Natural Resources: Oil & Gas,Energy,8,0,N/A,N/A
+Marathon Petroleum Corporation,Natural Resources: Oil & Gas,Energy,8,0,N/A,N/A
+Shell Oil Company,Natural Resources: Oil & Gas,Energy,16,4,N/A,N/A
+"T.D. Williamson, Inc.",Natural Resources: Oil & Gas,Energy,6,6,N/A,N/A
+ASRC Energy Services,Natural Resources: Oilfield Services,Energy,12,0,N/A,N/A
+Baker Hughes,Natural Resources: Oilfield Services,Energy,8,0,N/A,N/A
+Schlumberger,Natural Resources: Oilfield Services,Energy,11,12,N/A,N/A
+Save the Children,Nonprofit: Charity,N/A,5,0,N/A,N/A
+The Pew Charitable Trusts,Nonprofit: Charity,N/A,6,6,N/A,N/A
+World Vision,Nonprofit: Charity,N/A,52,0,N/A,N/A
+AARP,Nonprofit: Civic & Social,N/A,6,6,N/A,N/A
+Convergence,Nonprofit: Civic & Social,N/A,26,26,N/A,N/A
+Enterprise Community Partners,Nonprofit: Civic & Social,N/A,12,0,N/A,N/A
+Help USA,Nonprofit: Civic & Social,N/A,12,12,N/A,N/A
+National Partnership for Women & Families,Nonprofit: Civic & Social,N/A,15,0,N/A,N/A
+Project Renewal,Nonprofit: Civic & Social,N/A,0,0,N/A,N/A
+uAspire,Nonprofit: Civic & Social,N/A,2,20,N/A,N/A
+Washburn Center For Children,Nonprofit: Civic & Social,N/A,52,2,N/A,N/A
+Endeavor,Nonprofit: Development,N/A,16,0,N/A,N/A
+Achievement Network,Nonprofit: Education,N/A,12,4,N/A,N/A
+Start Early,Nonprofit: Education,N/A,24,N/A,24,N/A
+Teach for America,Nonprofit: Education,N/A,12,0,N/A,N/A
+Wildwood Programs,Nonprofit: Education,N/A,12,0,N/A,N/A
+Environmental Defense Fund,Nonprofit: Environmental Organization,N/A,8,16,N/A,N/A
+Natural Resources Defense Council,Nonprofit: Environmental Organization,N/A,15,9,N/A,N/A
+The Nature Conservancy,Nonprofit: Environmental Organization,N/A,6,6,N/A,N/A
+Financial Industry Regulatory Authority,Nonprofit: Finance,N/A,12,0,N/A,N/A
+Financial Ombudsman Service,Nonprofit: Finance,N/A,26,12,N/A,N/A
+Harvard Pilgrim Health Care,Nonprofit: Healthcare,N/A,4,0,N/A,N/A
+Jewish Board of Family and Children's Services,Nonprofit: Healthcare,N/A,12,0,N/A,N/A
+Planned Parenthood,Nonprofit: Healthcare,N/A,6,6,N/A,N/A
+Sanford Health,Nonprofit: Healthcare,N/A,4,4,N/A,N/A
+SWOG,Nonprofit: Healthcare,N/A,6,6,N/A,N/A
+The Task Force For Global Health,Nonprofit: Healthcare,N/A,0,12,N/A,N/A
+American Red Cross,Nonprofit: Humanitarian Aid Organization,N/A,8,8,N/A,N/A
+International Justice Mission,Nonprofit: Legal,N/A,12,12,N/A,N/A
+Legal Aid Society - Employment Law Center,Nonprofit: Legal,N/A,12,52,N/A,N/A
+Center for Reproductive Rights,Nonprofit: Legal Services,N/A,12,4,N/A,N/A
+Legal Aid of North Carolina,Nonprofit: Legal Services,N/A,6,6,N/A,N/A
+Westbank Community Library,Nonprofit: Libraries,N/A,12,0,N/A,N/A
+Camden Coalition of Healthcare Providers,Nonprofit: Medical,N/A,4,12,N/A,N/A
+"MOXI, The Wolf Museum of Exploration + Innovation",Nonprofit: Museums,N/A,1,12,N/A,N/A
+The Field Museum,Nonprofit: Museums,N/A,8,4,N/A,N/A
+The World Economic Forum,Nonprofit: Political Organization,N/A,12,6,N/A,N/A
+Archdiocese of Chicago,Nonprofit: Religious,N/A,12,12,N/A,N/A
+Battelle Memorial Institute,Nonprofit: Research,N/A,6,0,N/A,N/A
+Charles Stark Draper Laboratory,Nonprofit: Research,N/A,12,0,N/A,N/A
+"Education Development Center, Inc.",Nonprofit: Research,N/A,12,0,N/A,N/A
+HopeLab,Nonprofit: Research,N/A,16,0,N/A,N/A
+RTI International,Nonprofit: Research,N/A,6,6,N/A,N/A
+The Leukemia & Lymphoma Society,Nonprofit: Research,N/A,3,9,N/A,N/A
+American Chemical Society,Nonprofit: Science & Technology,N/A,8,12,N/A,N/A
+AICPA,Nonprofit: Trade Organization,N/A,10,0,N/A,N/A
+The Georgia Society of CPAs,Nonprofit: Trade Organization,N/A,8,4,N/A,N/A
+American Canning,Packaging,Materials,6,6,N/A,N/A
+Avery Dennison,Packaging,Materials,9,0,N/A,N/A
+AbbVie Inc.,Pharmaceutical,Health Care,12,12,N/A,N/A
+Agios Pharmaceuticals,Pharmaceutical,Health Care,8,0,N/A,N/A
+AstraZeneca,Pharmaceutical,Health Care,6,52,N/A,N/A
+Bayer AG,Pharmaceutical,Health Care,4,12,N/A,N/A
+Bayer HealthCare Pharmaceuticals,Pharmaceutical,Health Care,4,1,N/A,N/A
+Envigo,Pharmaceutical,Health Care,6,0,N/A,N/A
+Ferring Pharmaceuticals,Pharmaceutical,Health Care,8,8,N/A,N/A
+Kite Pharma,Pharmaceutical,Health Care,12,0,N/A,N/A
+"Merck & Co., Inc.",Pharmaceutical,Health Care,9,8,N/A,N/A
+Novartis,Pharmaceutical,Health Care,13,6,N/A,N/A
+Oceanic Pharmachem Pvt. Ltd.,Pharmaceutical,Health Care,12,14,N/A,N/A
+Otsuka Pharmaceutical,Pharmaceutical,Health Care,8,0,N/A,N/A
+Pfizer,Pharmaceutical,Health Care,12,12,N/A,N/A
+Reata Pharmaceuticals,Pharmaceutical,Health Care,6,6,N/A,N/A
+Recursion Pharmaceuticals,Pharmaceutical,Health Care,12,0,N/A,N/A
+Syneos Health,Pharmaceutical,Health Care,14,38,N/A,N/A
+Express Scripts Holding,Pharmacies & Drug Stores,Health Care,2,6,N/A,N/A
+OptumRx,Pharmacies & Drug Stores,Health Care,12,12,N/A,N/A
+Chan Zuckerberg Initiative,Philanthropy,N/A,16,4,N/A,N/A
+Harold Grinspoon Foundation,Philanthropy,N/A,13,12,N/A,N/A
+Open Society Foundations,Philanthropy,N/A,25,13,N/A,N/A
+W. K. Kellogg Foundation,Philanthropy,N/A,32,0,N/A,N/A
+BCW,Public Relations,Communication Services,4,0,N/A,N/A
+Curley & Pynn,Public Relations,Communication Services,6,0,N/A,N/A
+Edelman,Public Relations,Communication Services,12,0,N/A,N/A
+Golin,Public Relations,Communication Services,8,27,N/A,N/A
+MWWPR,Public Relations,Communication Services,12,N/A,12,N/A
+Virgo Health,Public Relations,Communication Services,4,2,N/A,N/A
+American City Business Journals,Publishing,Communication Services,12,0,N/A,N/A
+Axel Springer,Publishing,Communication Services,16,52,N/A,N/A
+Curriculum Associates,Publishing,Communication Services,12,0,N/A,N/A
+Macmillan Learning,Publishing,Communication Services,14,0,N/A,N/A
+Mcgraw Hill,Publishing,Communication Services,10.5,12,N/A,N/A
+Penguin Random House,Publishing,Communication Services,10,0,N/A,N/A
+NavigatorCRE,Real Estate,Real Estate,6,0,N/A,N/A
+Keller Williams Realty,Real Estate: Brokers,Real Estate,13,0,N/A,N/A
+Redfin,Real Estate: Brokers,Real Estate,16,4,N/A,N/A
+Square Yards,Real Estate: Brokers,Real Estate,12,13,N/A,N/A
+Wyse Home Team Realty,Real Estate: Brokers,Real Estate,4,52,N/A,N/A
+CBRE,Real Estate: Development & Management,Real Estate,6,1,N/A,N/A
+HILLS Properties,Real Estate: Development & Management,Real Estate,8,4,N/A,N/A
+Jones Lang LaSalle,Real Estate: Development & Management,Real Estate,4,12,N/A,N/A
+Ryan Companies,Real Estate: Development & Management,Real Estate,12,6,N/A,N/A
+The Howard Hughes Corporation,Real Estate: Development & Management,Real Estate,12,0,N/A,N/A
+David Weekley Homes,Real Estate: Home Building,Real Estate,12,24,N/A,N/A
+PGIM Real Estate,Real Estate: Investment Trust,Real Estate,8,4,N/A,N/A
+Uniti,Real Estate: Investment Trust,Real Estate,4,2,N/A,N/A
+Blanton Turner,Real Estate: Management,Real Estate,4,12,N/A,N/A
+Love's,Retail: Convenience Store,Consumer Discretionary,8,6,N/A,N/A
+Hallmark Cards,"Retail: Crafts, Fabrics & Party Supplies",Consumer Discretionary,8,20,N/A,N/A
+Michaels,"Retail: Crafts, Fabrics & Party Supplies",Consumer Discretionary,8,0,N/A,N/A
+Belk,Retail: Department Store,Consumer Discretionary,8,4,N/A,N/A
+Bloomingdale's,Retail: Department Store,Consumer Discretionary,12,0,N/A,N/A
+Macy's,Retail: Department Store,Consumer Discretionary,11.5,6,N/A,N/A
+Myer,Retail: Department Store,Consumer Discretionary,12,52,N/A,N/A
+Nordstrom,Retail: Department Store,Consumer Discretionary,12,3,N/A,N/A
+Aldi USA,Retail: Discount Store,Consumer Discretionary,6,4,N/A,N/A
+BJs Wholesale Club,Retail: Discount Store,Consumer Discretionary,10,2,N/A,N/A
+Costco,Retail: Discount Store,Consumer Discretionary,8,2,N/A,N/A
+Dollar General,Retail: Discount Store,Consumer Discretionary,8,0,N/A,N/A
+Ross Stores,Retail: Discount Store,Consumer Discretionary,6,6,N/A,N/A
+Sprouts Farmers Market,Retail: Discount Store,Consumer Staples,3.5,5.5,N/A,N/A
+Best Buy,Retail: Electronics,Consumer Discretionary,12,0,N/A,N/A
+Crutchfield,Retail: Electronics,Consumer Discretionary,2,20,N/A,N/A
+Telstra,Retail: Electronics,Consumer Discretionary,18,52,N/A,N/A
+Central Garden & Pet,Retail: Furniture & Home Improvement,Consumer Discretionary,6,6,N/A,N/A
+Floor & Decor,Retail: Furniture & Home Improvement,Consumer Discretionary,2,6,N/A,N/A
+Sleep Number,Retail: Furniture & Home Improvement,Consumer Discretionary,4.5,3,N/A,N/A
+Williams Sonoma,Retail: Furniture & Home Improvement,Consumer Discretionary,26,8,N/A,N/A
+Kroger,Retail: General Merchandise,Consumer Staples,8,4,N/A,N/A
+LoweÕs Home Improvement,Retail: General Merchandise,Consumer Discretionary,11,0,N/A,N/A
+Petco,Retail: General Merchandise,Consumer Discretionary,2,52,N/A,N/A
+Petsmart,Retail: General Merchandise,Consumer Discretionary,8,4,N/A,N/A
+Tesco PLC,Retail: General Merchandise,Consumer Discretionary,27,18,N/A,N/A
+Signet Jewelers,Retail: Jewelery,Consumer Discretionary,9,3,N/A,N/A
+Drizly,Retail: Liquor,Consumer Discretionary,6,6,N/A,N/A
+Custom Ink,Retail: Online,Consumer Discretionary,3,8,N/A,N/A
+Overstock.com,Retail: Online,Consumer Discretionary,4,N/A,4,N/A
+Zola,Retail: Online,Consumer Discretionary,12,4,N/A,N/A
+Academy Sports + Outdoors,Retail: Other,Consumer Discretionary,6,1,N/A,N/A
+Accent Decor,Retail: Other,Consumer Discretionary,3,12,N/A,N/A
+Guitar Center,Retail: Other,Consumer Discretionary,7,2,N/A,N/A
+Marshall Retail Group,Retail: Other,Consumer Discretionary,9,0,N/A,N/A
+Uncommon Goods,Retail: Other,Consumer Discretionary,10,2,N/A,N/A
+ANN Inc.,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,6,N/A,N/A
+Athleta,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,15,0,N/A,N/A
+Calvin Klein,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,8,4,N/A,N/A
+DICK'S Sporting Goods,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,9,4,N/A,N/A
+DSW,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,11,0,N/A,N/A
+Esprit,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,16,N/A,N/A
+Evisons,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,0,N/A,N/A
+Fossil,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,9,N/A,N/A
+Haggar,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,24,N/A,N/A
+Hollister,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,12,N/A,N/A
+J.Crew,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,4.5,4,N/A,N/A
+"Jockey International, Inc.","Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,6,N/A,N/A
+Lands' End,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,8,4,N/A,N/A
+Levi Strauss & Co.,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,12,21,N/A,N/A
+Lululemon Athletica,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,24,0,N/A,N/A
+New Balance,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,20,4,N/A,N/A
+PVH Corp.,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,4,N/A,N/A
+"Reebok International, Ltd.","Retail: Shoes, Accessories and Apparel",Consumer Discretionary,8,8,N/A,N/A
+REI,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,16,6,N/A,N/A
+Trunk Club,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,12,0,N/A,N/A
+Uniqlo,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,0,0,N/A,N/A
+Meredith Digital,Retail: Stationary & Office Supplies,Consumer Discretionary,12,0,N/A,N/A
+Office Depot,Retail: Stationary & Office Supplies,Consumer Discretionary,6,8,N/A,N/A
+Ahold Delhaize,Retail: Supermarket Company,Consumer Staples,6,6,N/A,N/A
+Family Dollar,Retail: Supermarket Company,Consumer Staples,9,0,N/A,N/A
+Hy-Vee,Retail: Supermarket Company,Consumer Staples,8,4,N/A,N/A
+Lowes Foods,Retail: Supermarket Company,Consumer Staples,15,15,N/A,N/A
+CozyKin,Services: Daycare,Consumer Discretionary,6,6,N/A,N/A
+EasyWayPaper,Services: Other,Consumer Discretionary,30,5,N/A,N/A
+Essay 4 Students,Services: Other,Consumer Discretionary,25,5,N/A,N/A
+Industrious,Services: Other,Real Estate,0,4,N/A,N/A
+International SOS,Services: Other,Industrials,16,0,N/A,N/A
+Sunrun,Services: Other,Utilities,10,0,N/A,N/A
+Terminix,Services: Other,Industrials,13,6.5,N/A,N/A
+Uno Assignment Help,Services: Other,Consumer Discretionary,4,6,N/A,N/A
+TransPerfect,Services: Translation,Communication Services,8,4,N/A,N/A
+"Clean Harbors, Inc.",Services: Waste Management,Industrials,0,12,N/A,N/A
+"Republic Services, Inc.",Services: Waste Management,Industrials,8,0,N/A,N/A
+Waste Connections,Services: Waste Management,Industrials,6,12,N/A,N/A
+WIN Waste Innovations,Services: Waste Management,Industrials,12,12,N/A,N/A
+Nike,Sporting Goods,Consumer Discretionary,12,12,N/A,N/A
+Trek Bikes,Sporting Goods,Consumer Discretionary,12,0,N/A,N/A
+National Football League,Sports,Communication Services,16,0,N/A,N/A
+Round Rock Express,Sports,Communication Services,1,0,N/A,N/A
+Braze,Technology,Information Technology,18,2,N/A,N/A
+Akamai,Technology: B2B Tech Services,Information Technology,11,6,N/A,N/A
+Amazon Web Services,Technology: B2B Tech Services,Information Technology,12,5.5,N/A,N/A
+Atos,Technology: B2B Tech Services,Industrials,8,0,N/A,N/A
+Bepress,Technology: B2B Tech Services,Information Technology,14,26,N/A,N/A
+CACI International,Technology: B2B Tech Services,Industrials,3,9,N/A,N/A
+CDK Global,Technology: B2B Tech Services,Information Technology,9,25.5,N/A,N/A
+Chartbeat,Technology: B2B Tech Services,Information Technology,26,26,N/A,N/A
+Cognizant,Technology: B2B Tech Services,Information Technology,4,2,N/A,N/A
+Cubic Corporation,Technology: B2B Tech Services,Industrials,4,0,N/A,N/A
+"Datto, Inc.",Technology: B2B Tech Services,Information Technology,16,0,N/A,N/A
+"DMI, Inc.",Technology: B2B Tech Services,Information Technology,2,6,N/A,N/A
+Impinj,Technology: B2B Tech Services,Information Technology,12,0,N/A,N/A
+Iron Mountain,Technology: B2B Tech Services,Information Technology,5,9,N/A,N/A
+Knowable,Technology: B2B Tech Services,Information Technology,11,2,N/A,N/A
+Leidos,Technology: B2B Tech Services,Industrials,4,5,N/A,N/A
+Luxoft,Technology: B2B Tech Services,Information Technology,26,12,N/A,N/A
+MediaMath,Technology: B2B Tech Services,Communication Services,10,0,N/A,N/A
+MEDITECH,Technology: B2B Tech Services,Health Care,16,0,N/A,N/A
+MPAY,Technology: B2B Tech Services,Industrials,4,0,N/A,N/A
+NCR Corporation,Technology: B2B Tech Services,Information Technology,17,20,N/A,N/A
+Optoro,Technology: B2B Tech Services,Information Technology,6,5,N/A,N/A
+Quantcast,Technology: B2B Tech Services,Information Technology,4,8,N/A,N/A
+Recurly,Technology: B2B Tech Services,Information Technology,6,0,N/A,N/A
+Sirius Computer Solutions,Technology: B2B Tech Services,Information Technology,4,8,N/A,N/A
+Teradata,Technology: B2B Tech Services,Information Technology,8,8,N/A,N/A
+Twilio,Technology: B2B Tech Services,Information Technology,16,20,N/A,N/A
+Unisys,Technology: B2B Tech Services,Information Technology,12,0,N/A,N/A
+Volt Information Sciences,Technology: B2B Tech Services,Information Technology,6,6,N/A,N/A
+Wipro,Technology: B2B Tech Services,Information Technology,16,8,N/A,N/A
+Airbnb,Technology: Consumer Internet,Consumer Discretionary,21,2,N/A,N/A
+AOL,Technology: Consumer Internet,Communication Services,12,12,N/A,N/A
+BentoBox,Technology: Consumer Internet,Consumer Discretionary,12,0,N/A,N/A
+BlaBlaCar,Technology: Consumer Internet,Consumer Discretionary,12,0,N/A,N/A
+Booking.com,Technology: Consumer Internet,Consumer Discretionary,22,10.5,N/A,N/A
+CampusLogic,Technology: Consumer Internet,Consumer Discretionary,10,0,N/A,N/A
+CarMax,Technology: Consumer Internet,Consumer Discretionary,6,9,N/A,N/A
+Carsales,Technology: Consumer Internet,Consumer Discretionary,16,N/A,2,N/A
+ChowNow,Technology: Consumer Internet,Consumer Discretionary,15,0,N/A,N/A
+Cloudworkers,Technology: Consumer Internet,Information Technology,52,0,N/A,N/A
+Comoto Holdings,Technology: Consumer Internet,Consumer Discretionary,12,26,N/A,N/A
+Divercity,Technology: Consumer Internet,Consumer Discretionary,1,1,N/A,N/A
+DoorDash,Technology: Consumer Internet,Consumer Discretionary,10,0,N/A,N/A
+Freewheel,Technology: Consumer Internet,Communication Services,12,4,N/A,N/A
+Genius,Technology: Consumer Internet,Communication Services,12,4,N/A,N/A
+GoDaddy,Technology: Consumer Internet,Consumer Discretionary,17,9,N/A,N/A
+Groupon,Technology: Consumer Internet,Consumer Discretionary,14,0,N/A,N/A
+Grubhub,Technology: Consumer Internet,Consumer Discretionary,12,0,N/A,N/A
+Ibotta,Technology: Consumer Internet,Financials,4,0,N/A,N/A
+Indiegogo,Technology: Consumer Internet,Consumer Discretionary,10,10,N/A,N/A
+Justworks,Technology: Consumer Internet,Industrials,14,2,N/A,N/A
+LaunchGood,Technology: Consumer Internet,Financials,12,12,N/A,N/A
+Lyft,Technology: Consumer Internet,Industrials,12,18,N/A,N/A
+Match,Technology: Consumer Internet,Communication Services,16,0,N/A,N/A
+Match Group,Technology: Consumer Internet,Communication Services,14,0,N/A,N/A
+Meta,Technology: Consumer Internet,Communication Services,22,0,N/A,N/A
+MindSumo,Technology: Consumer Internet,Financials,12,0,N/A,N/A
+Nerdwallet,Technology: Consumer Internet,Financials,12,0,N/A,N/A
+Netflix,Technology: Consumer Internet,Communication Services,52,0,N/A,N/A
+"Noom, inc.",Technology: Consumer Internet,Health Care,12,6,N/A,N/A
+Offerup,Technology: Consumer Internet,Financials,8,8,N/A,N/A
+OLX Group,Technology: Consumer Internet,Consumer Discretionary,19.5,26,N/A,N/A
+ON Semiconductor,Technology: Consumer Internet,Information Technology,4,2,N/A,N/A
+Peapod Digital Labs,Technology: Consumer Internet,Financials,12,6,N/A,N/A
+Postmates,Technology: Consumer Internet,Consumer Discretionary,16,N/A,16,N/A
+Rally Health,Technology: Consumer Internet,Health Care,18,0,N/A,N/A
+Reddit,Technology: Consumer Internet,Communication Services,16,N/A,16,N/A
+Shopify,Technology: Consumer Internet,Consumer Discretionary,26,26,N/A,N/A
+Spotify,Technology: Consumer Internet,Communication Services,24,2.5,N/A,N/A
+Spring Health,Technology: Consumer Internet,Health Care,18,0,N/A,N/A
+Squarespace,Technology: Consumer Internet,Information Technology,20,0,N/A,N/A
+Travelzoo,Technology: Consumer Internet,Consumer Discretionary,4,0,N/A,N/A
+Twitter,Technology: Consumer Internet,Communication Services,20,2.5,N/A,N/A
+WorkMarket,Technology: Consumer Internet,Information Technology,10,4,N/A,N/A
+Yelp,Technology: Consumer Internet,Communication Services,14,0,N/A,N/A
+YouTube,Technology: Consumer Internet,Communication Services,15,2,N/A,N/A
+Zillow,Technology: Consumer Internet,Real Estate,4,2,N/A,N/A
+Zumper,Technology: Consumer Internet,Real Estate,12,0,N/A,N/A
+Enova,Technology: Financial Services,Financials,10,0,N/A,N/A
+Funding Circle,Technology: Financial Services,Financials,13,N/A,2,N/A
+Kabbage,Technology: Financial Services,Financials,12,0,N/A,N/A
+Amazon Games,Technology: Gaming,Communication Services,12,12,N/A,N/A
+Roblox,Technology: Gaming,Communication Services,16,0.5,N/A,N/A
+Advantest,Technology: Manufacturing,Information Technology,12,0,N/A,N/A
+Analog Devices,Technology: Manufacturing,Information Technology,8,3,N/A,N/A
+Aruba Networks,Technology: Manufacturing,Information Technology,24,2,N/A,N/A
+Cadence Design Systems,Technology: Manufacturing,Information Technology,12,4,N/A,N/A
+Cirrus Logic,Technology: Manufacturing,Information Technology,12,0,N/A,N/A
+Ericsson,Technology: Manufacturing,Information Technology,16,0,N/A,N/A
+GlobalFoundries,Technology: Manufacturing,Information Technology,20,0,N/A,N/A
+HP Inc.,Technology: Manufacturing,Information Technology,14,6,N/A,N/A
+Infineon Technologies,Technology: Manufacturing,Information Technology,1,N/A,1,N/A
+Itron,Technology: Manufacturing,Information Technology,12,4,N/A,N/A
+Juniper Networks,Technology: Manufacturing,Information Technology,16,46,N/A,N/A
+KLA-Tencor Corporation,Technology: Manufacturing,Information Technology,12,6,N/A,N/A
+Lenovo,Technology: Manufacturing,Information Technology,24,0,N/A,N/A
+Markforged,Technology: Manufacturing,Information Technology,6,12,N/A,N/A
+Molecular Devices,Technology: Manufacturing,Information Technology,14,4,N/A,N/A
+National Instruments,Technology: Manufacturing,Information Technology,6,12,N/A,N/A
+Roku,Technology: Manufacturing,Information Technology,16,8,N/A,N/A
+Seagate Technology,Technology: Manufacturing,Information Technology,16,0,N/A,N/A
+Siemens Energy,Technology: Manufacturing,Energy,6,4,N/A,N/A
+Snap Inc.,Technology: Manufacturing,Communication Services,14,8,N/A,N/A
+Texas Instruments,Technology: Manufacturing,Information Technology,12,N/A,4,N/A
+Currencycloud,Technology: Payments,Financials,13,0,N/A,N/A
+Gusto,Technology: Payments,Financials,16,10,N/A,N/A
+Ingenico Group,Technology: Payments,Financials,12,40,N/A,N/A
+MineralTree,Technology: Payments,Financials,12,0,N/A,N/A
+Pangea Money Transfer,Technology: Payments,Financials,12,0,N/A,N/A
+PayPal,Technology: Payments,Financials,13,3,N/A,N/A
+Plastiq,Technology: Payments,Financials,12,6,N/A,N/A
+Ramp,Technology: Payments,Financials,12,0,N/A,N/A
+Square,Technology: Payments,Financials,16,0,N/A,N/A
+Magic Leap,Technology: Research,Information Technology,18,0,N/A,N/A
+ADT Security Services,Technology: Security,Consumer Discretionary,5,5,N/A,N/A
+Alarm.com,Technology: Security,Consumer Discretionary,8,0,N/A,N/A
+Brivo,Technology: Security,Consumer Discretionary,8,0,N/A,N/A
+Coalfire,Technology: Security,Consumer Discretionary,10,6,N/A,N/A
+CrowdStrike,Technology: Security,Consumer Discretionary,9,11,N/A,N/A
+Entrust,Technology: Security,Consumer Discretionary,12,2,N/A,N/A
+RSA,Technology: Security,Consumer Discretionary,18,0,N/A,N/A
+Trustwave Holdings,Technology: Security,Consumer Discretionary,12,12,N/A,N/A
+Agilysys,Technology: Software,Information Technology,6,0,N/A,N/A
+Alkami Technology,Technology: Software,Information Technology,12,0,N/A,N/A
+Alteryx,Technology: Software,Information Technology,12,0,N/A,N/A
+Amplitude,Technology: Software,Information Technology,12,N/A,12,N/A
+Anant Corporation,Technology: Software,Information Technology,4,2,N/A,N/A
+Ansys,Technology: Software,Information Technology,6,6,N/A,N/A
+AppDynamics,Technology: Software,Information Technology,13,0,N/A,N/A
+Aquicore,Technology: Software,Information Technology,12,0,N/A,N/A
+ArisGlobal,Technology: Software,Information Technology,12,4,N/A,N/A
+Atlassian,Technology: Software,Information Technology,25,0,N/A,N/A
+Automox,Technology: Software,Information Technology,12,0,N/A,N/A
+"Aware, Inc",Technology: Software,Health Care,15.5,0,N/A,N/A
+Axon,Technology: Software,Industrials,12,0,N/A,N/A
+"Bentley Systems, Inc.",Technology: Software,Information Technology,6,6,N/A,N/A
+BigCommerce,Technology: Software,Information Technology,12,0,N/A,N/A
+Bitdefender,Technology: Software,Information Technology,52,52,N/A,N/A
+Blackbaud,Technology: Software,Information Technology,12,0,N/A,N/A
+Bullhorn,Technology: Software,Information Technology,12,0,N/A,N/A
+CallRail,Technology: Software,Information Technology,6,12,N/A,N/A
+Canva,Technology: Software,Information Technology,18,23,N/A,N/A
+CareValidate,Technology: Software,Health Care,8,0,N/A,N/A
+CentralSquare Technologies,Technology: Software,Information Technology,12,0,N/A,N/A
+Ceridian,Technology: Software,Information Technology,14,1,N/A,N/A
+Citrix,Technology: Software,Information Technology,18,6,N/A,N/A
+ClearPoint Strategy,Technology: Software,Information Technology,6,0,N/A,N/A
+Cludo,Technology: Software,Information Technology,12,0,N/A,N/A
+Collective Health,Technology: Software,Health Care,6,6,N/A,N/A
+Collibra,Technology: Software,Information Technology,21,6.5,N/A,N/A
+Community Brands,Technology: Software,Information Technology,6,12,N/A,N/A
+ConsenSys,Technology: Software,Information Technology,12,12,N/A,N/A
+Conviva,Technology: Software,Information Technology,6,6,N/A,N/A
+Convoy,Technology: Software,Information Technology,12,16,N/A,N/A
+Coupa,Technology: Software,Information Technology,3,9,N/A,N/A
+Dassault Systemes,Technology: Software,Information Technology,7,3,N/A,N/A
+Detechtion Technologies,Technology: Software,Information Technology,1,4,N/A,N/A
+Digit,Technology: Software,Information Technology,18,0,N/A,N/A
+DISCO,Technology: Software,Information Technology,12,0,N/A,N/A
+Donnelley Financial Solutions,Technology: Software,Information Technology,5,8,N/A,N/A
+Doximity,Technology: Software,Health Care,12,0,N/A,N/A
+DxMinds Technologies Inc,Technology: Software,Information Technology,10,10,N/A,N/A
+Dynatrace,Technology: Software,Information Technology,52,52,N/A,N/A
+Ellevation Education,Technology: Software,Consumer Discretionary,8,0,N/A,N/A
+Engrain,Technology: Software,Information Technology,8,0,N/A,N/A
+ePublishing,Technology: Software,Information Technology,2,2,N/A,N/A
+Esri,Technology: Software,Information Technology,6,0,N/A,N/A
+Expeed Software,Technology: Software,Information Technology,24,0,N/A,N/A
+Fearless,Technology: Software,Information Technology,6,3,N/A,N/A
+Flexera Software,Technology: Software,Information Technology,8,8,N/A,N/A
+FreshBooks,Technology: Software,Information Technology,32,0,N/A,N/A
+Freshworks,Technology: Software,Information Technology,8,2,N/A,N/A
+Frontline Education,Technology: Software,Consumer Discretionary,9,3,N/A,N/A
+Fusion Risk Management,Technology: Software,Information Technology,12,0,N/A,N/A
+GlossGenius,Technology: Software,Information Technology,16,0,N/A,N/A
+Gong,Technology: Software,Information Technology,16,0,N/A,N/A
+GoodCore Software,Technology: Software,Information Technology,12,0,N/A,N/A
+Higher Logic,Technology: Software,Information Technology,12,0,N/A,N/A
+"HubSpot, Inc.",Technology: Software,Information Technology,16,8,N/A,N/A
+Hudl,Technology: Software,Information Technology,6,0,N/A,N/A
+"iCIMS, Inc.",Technology: Software,Information Technology,14,30,N/A,N/A
+Infor,Technology: Software,Information Technology,16,0,N/A,N/A
+Informatica,Technology: Software,Information Technology,16,0,N/A,N/A
+InsightSquared,Technology: Software,Information Technology,12,0,N/A,N/A
+Instructure,Technology: Software,Information Technology,3,9,N/A,N/A
+Integrity Software,Technology: Software,Information Technology,6,46,N/A,N/A
+Intellimize,Technology: Software,Information Technology,14,0,N/A,N/A
+"Intuit, Inc",Technology: Software,Information Technology,12,8,N/A,N/A
+JHC Systems,Technology: Software,Information Technology,52,0,N/A,N/A
+Juice Analytics,Technology: Software,Information Technology,4,0,N/A,N/A
+Kajabi,Technology: Software,Information Technology,1,12,N/A,N/A
+Khoros,Technology: Software,Information Technology,12,3,N/A,N/A
+LevaData,Technology: Software,Information Technology,6,6,N/A,N/A
+Lionbridge,Technology: Software,Information Technology,8,4,N/A,N/A
+Lithero,Technology: Software,Information Technology,8,4,N/A,N/A
+Mad Mobile,Technology: Software,Information Technology,2,10,N/A,N/A
+Maestro,Technology: Software,Information Technology,16,0,N/A,N/A
+Mapbox,Technology: Software,Information Technology,10,2,N/A,N/A
+MaritzCX,Technology: Software,Information Technology,12,0,N/A,N/A
+Medallia,Technology: Software,Information Technology,12,2,N/A,N/A
+Microsoft,Technology: Software,Information Technology,12,3,N/A,N/A
+MicroStrategy,Technology: Software,Information Technology,17,6,N/A,N/A
+MobileIron,Technology: Software,Information Technology,12,16,N/A,N/A
+Mode Mobile,Technology: Software,Information Technology,4,8,N/A,N/A
+"MongoDB, Inc.",Technology: Software,Information Technology,20,0,N/A,N/A
+Motus LLC,Technology: Software,Information Technology,16,0,N/A,N/A
+Netskope,Technology: Software,Information Technology,6,0,N/A,N/A
+NetSuite Inc.,Technology: Software,Information Technology,16,47,N/A,N/A
+New Relic,Technology: Software,Information Technology,12,6,N/A,N/A
+Nextech,Technology: Software,Information Technology,6,6,N/A,N/A
+NextGen Healthcare,Technology: Software,Health Care,2,12,N/A,N/A
+Nutanix,Technology: Software,Information Technology,17,0,N/A,N/A
+OfferFit,Technology: Software,Information Technology,12,8,N/A,N/A
+Palantir,Technology: Software,Information Technology,30,38,N/A,N/A
+PandaDoc,Technology: Software,Information Technology,20,40,N/A,N/A
+panOpen,Technology: Software,Information Technology,2,0,N/A,N/A
+"Panopto, Inc.",Technology: Software,Information Technology,12,4,N/A,N/A
+Patron Technology,Technology: Software,Information Technology,14,8,N/A,N/A
+Paylocity,Technology: Software,Industrials,7,5,N/A,N/A
+Pear Therapeutics,Technology: Software,Health Care,6,4,N/A,N/A
+Persistent Systems,Technology: Software,Information Technology,12,0,N/A,N/A
+Pexip,Technology: Software,Information Technology,8,4,N/A,N/A
+PhotoShelter,Technology: Software,Information Technology,12,0,N/A,N/A
+Praxent,Technology: Software,Information Technology,2,2,N/A,N/A
+Privitar Ltd,Technology: Software,Information Technology,20,13,N/A,N/A
+Procore Technologies,Technology: Software,Information Technology,16,0,N/A,N/A
+Qualtrics,Technology: Software,Information Technology,6,12,N/A,N/A
+Rangle.io,Technology: Software,Information Technology,52,0,N/A,N/A
+Red Hat,Technology: Software,Information Technology,0,0,N/A,N/A
+Rosetta Stone,Technology: Software,Consumer Discretionary,14,0,N/A,N/A
+Safety Labs Inc,Technology: Software,Health Care,15,0,N/A,N/A
+Sage,Technology: Software,Information Technology,12,0,N/A,N/A
+SAP,Technology: Software,Information Technology,12,3,N/A,N/A
+SAS,Technology: Software,Information Technology,8,4,N/A,N/A
+Screencastify,Technology: Software,Information Technology,6,12,N/A,N/A
+ServiceTitan,Technology: Software,Information Technology,12,11,N/A,N/A
+Siemens Digital Industries Software,Technology: Software,Information Technology,6,11,N/A,N/A
+Signzy Technology Private Limited,Technology: Software,Information Technology,3,3,N/A,N/A
+SmartBear Software,Technology: Software,Information Technology,16,0,N/A,N/A
+Splunk,Technology: Software,Information Technology,16,0,N/A,N/A
+Storable,Technology: Software,Information Technology,12,0,N/A,N/A
+Tableau Software,Technology: Software,Communication Services,12,0,N/A,N/A
+Taboola,Technology: Software,Information Technology,26,0,N/A,N/A
+Talkdesk,Technology: Software,Information Technology,16,N/A,8,N/A
+TIBCO Software,Technology: Software,Information Technology,14,10,N/A,N/A
+Triton Digital,Technology: Software,Communication Services,12,0,N/A,N/A
+Veeva Systems,Technology: Software,Information Technology,12,12,N/A,N/A
+VMware,Technology: Software,Information Technology,18,0,N/A,N/A
+WGU Labs,Technology: Software,Consumer Discretionary,12,12,N/A,N/A
+Workday,Technology: Software,Information Technology,12,0,N/A,N/A
+WorkJam,Technology: Software,Information Technology,52,0,N/A,N/A
+"Wrike, Inc.",Technology: Software,Information Technology,8,8,N/A,N/A
+Xactly Corporation,Technology: Software,Information Technology,6,6,N/A,N/A
+Xandr,Technology: Software,Communication Services,12,0,N/A,N/A
+Zapier,Technology: Software,Information Technology,14,0,N/A,N/A
+ Charter Communications,Telecommunications,Communication Services,8,12,N/A,N/A
+Asurion,Telecommunications,Communication Services,12,8,N/A,N/A
+AT&T,Telecommunications,Communication Services,9,6,N/A,N/A
+Ciena,Telecommunications,Communication Services,18,0,N/A,N/A
+Comcast,Telecommunications,Communication Services,12,4,N/A,N/A
+Cox,Telecommunications,Communication Services,8,8,N/A,N/A
+G Fiber,Telecommunications,Communication Services,13,2,N/A,N/A
+Hughes Network Systems,Telecommunications,Communication Services,16,0,N/A,N/A
+Qualcomm Incorporated,Telecommunications,Communication Services,12,12,N/A,N/A
+"RingCentral, Inc.",Telecommunications,Communication Services,12,4,N/A,N/A
+Telnyx,Telecommunications,Communication Services,12,8,N/A,N/A
+Viettel Group,Telecommunications,Communication Services,24,52,N/A,N/A
+Zara,Textiles,Consumer Discretionary,6,4,N/A,N/A
+FlixBus,Transportation: Bus,Industrials,52,0,N/A,N/A
+UPS,Transportation: Couriers & Delivery,Industrials,3,8,N/A,N/A
+CSX Corporation,Transportation: Freight & Logistics,Industrials,16,52,N/A,N/A
+Dematic,Transportation: Freight & Logistics,Industrials,6,6,N/A,N/A
+Echo Global Logistics,Transportation: Freight & Logistics,Industrials,4,4,N/A,N/A
+Redwood Logistics,Transportation: Freight & Logistics,Industrials,4.5,1,N/A,N/A
+Transplace,Transportation: Freight & Logistics,Industrials,5,6,N/A,N/A
+UniGroup,Transportation: Freight & Logistics,Industrials,4,0,N/A,N/A
+American Airlines,Transportation: Passenger Air,Industrials,10.5,6,N/A,N/A
+Southwest Airlines,Transportation: Passenger Air,Industrials,12,12,N/A,N/A
+United Airlines,Transportation: Passenger Air,Industrials,6,0,N/A,N/A
+Amtrak,Transportation: Rail,Industrials,6,0,N/A,N/A
+BNSF Logistics,Transportation: Rail,Industrials,12,0,N/A,N/A
+Kansas City Southern,Transportation: Rail,Industrials,6,6,N/A,N/A
+"Avis Budget Group, Inc.",Transportation: Rental,Industrials,6,6,N/A,N/A
+Enterprise Holdings,Transportation: Rental,Industrials,12,12,N/A,N/A
+"Hertz Global Holdings, Inc.",Transportation: Rental,Industrials,12,0,N/A,N/A
+ISO New England,Utilities,Utilities,2,8,N/A,N/A
+Equinox,Wellness & Fitness,Consumer Discretionary,6,12,N/A,N/A
+THE WELL,Wellness & Fitness,Consumer Discretionary,12,0,N/A,N/A
+C&S Wholesale Grocers,Wholesale,Consumer Staples,6,12,N/A,N/A
+Martine's Wines,Wholesale,Consumer Staples,6,0,N/A,N/A
+Sonepar,Wholesale,Consumer Staples,8,12,N/A,N/A
+Sonepar USA,Wholesale,Consumer Staples,6,12,N/A,N/A
+Worldwide Produce,Wholesale,Consumer Staples,6,0,N/A,N/A
+Daggerwing Group Inc.,Advertising,Communication Services,1,N/A,N/A,N/A
+KBS,Advertising,Communication Services,2,N/A,N/A,N/A
+Wilson Dow Group,Advertising,Communication Services,1,N/A,N/A,N/A
+Compass Group PLC,Business Services: Food & Hospitality,Consumer Discretionary,0,N/A,N/A,N/A
+Hays PLC,Business Services: Staffing & Outsourcing,Industrials,2,N/A,N/A,N/A
+S.i. Systems,Business Services: Staffing & Outsourcing,Industrials,0,N/A,N/A,N/A
+Vectrus,Conglomerate,Industrials,40,N/A,N/A,N/A
+Scentsy,Consumer Packaged Goods: Packaged Products,Consumer Discretionary,52,N/A,N/A,N/A
+Yankee Candle,Consumer Packaged Goods: Packaged Products,Consumer Discretionary,12,N/A,N/A,N/A
+Weill Cornell Medicine,Educational Services: College & Universities,Consumer Discretionary,12.5,N/A,N/A,N/A
+Round Rock ISD,Educational Services: Management,Consumer Discretionary,0,N/A,N/A,N/A
+Austin Independent School District,Educational Services: School,Consumer Discretionary,1,N/A,N/A,N/A
+Bain Capital,Finance: Asset Management,Financials,16,N/A,N/A,N/A
+KKR & Co. LP,Finance: Asset Management,Financials,16,N/A,N/A,N/A
+Nationwide Building Society,Finance: Diversified,Financials,26,N/A,N/A,N/A
+Carbon Health,Healthcare: Hospitals & Clinics,Health Care,12,N/A,N/A,N/A
+Nemours,Healthcare: Hospitals & Clinics,Health Care,0,N/A,N/A,N/A
+ProMedica,Healthcare: Hospitals & Clinics,Health Care,0,N/A,N/A,N/A
+Trinity Health System,Healthcare: Hospitals & Clinics,Health Care,2,N/A,N/A,N/A
+University Hospitals,Healthcare: Hospitals & Clinics,Health Care,0,N/A,N/A,N/A
+"NxStage Medical, Inc.",Healthcare: Medical Devices,Health Care,0,N/A,N/A,N/A
+Intercontinental Hotels Group,Hospitality: Hotels,Consumer Discretionary,50,N/A,N/A,N/A
+Waffle House,Hospitality: Restaurants,Consumer Discretionary,6,N/A,N/A,N/A
+Whataburger,Hospitality: Restaurants,Consumer Discretionary,40,N/A,N/A,N/A
+Pella Windows and Doors,Industrial: Building Materials Manufacturing,Industrials,12,N/A,N/A,N/A
+American Bridge Company,Industrial: Construction Company,Industrials,0,N/A,N/A,N/A
+Black & Veatch,Industrial: Construction Company,Industrials,12,N/A,N/A,N/A
+Bhel,Industrial: Equipment Manufacturing,Industrials,50,N/A,N/A,N/A
+Macy's Technology,Information Services: Technology,Information Technology,8,N/A,N/A,N/A
+Wisetech Global,Information Services: Technology,Information Technology,0,N/A,N/A,N/A
+Yext,Information Services: Technology,Information Technology,16,N/A,N/A,N/A
+"Matrix Absence Management, Inc.",Insurance: Diversified,Financials,8,N/A,N/A,N/A
+Elevance Health,Insurance: Health,Financials,6,N/A,N/A,N/A
+Auto-Owners Insurance,Insurance: Property & Casualty,Financials,1,N/A,N/A,N/A
+Hapag-Lloyd,Maritime,Industrials,14,N/A,N/A,N/A
+BASF,Natural Resources: Chemicals,Materials,18,N/A,N/A,N/A
+Alpha Natural Resources,Natural Resources: Metals & Mining,Materials,6,N/A,N/A,N/A
+Barrick Gold Corporation,Natural Resources: Metals & Mining,Materials,30,N/A,N/A,N/A
+BP,Natural Resources: Oil & Gas,Energy,16,N/A,N/A,N/A
+Halliburton,Natural Resources: Oilfield Services,Energy,8,N/A,N/A,N/A
+"National Oilwell Varco, Inc.",Natural Resources: Oilfield Services,Energy,2,N/A,N/A,N/A
+Silicon Valley Employers Forum,Nonprofit: Trade Organization,N/A,12,N/A,N/A,N/A
+SPEEA,Nonprofit: Trade Organization,N/A,0,N/A,N/A,N/A
+AmerisourceBergen,Pharmaceutical,Health Care,8,N/A,N/A,N/A
+Transwestern,Real Estate: Development & Management,Real Estate,7,N/A,N/A,N/A
+Trader JoeÕs,Retail: Convenience Store,Consumer Staples,0,N/A,N/A,N/A
+Harrods,Retail: Department Store,Consumer Discretionary,10,N/A,N/A,N/A
+Tractor Supply Company,Retail: General Merchandise,Consumer Discretionary,6,N/A,N/A,N/A
+American Eagle Outfitters,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,4,N/A,N/A,N/A
+LVMH,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,10,N/A,N/A,N/A
+Steve Madden,"Retail: Shoes, Accessories and Apparel",Consumer Discretionary,6,N/A,N/A,N/A
+Food Lion,Retail: Supermarket Company,Consumer Staples,0,N/A,N/A,N/A
+Bright Horizons,Services: Daycare,Consumer Discretionary,0,N/A,N/A,N/A
+Talent Inc.,Services: Other,Information Technology,10,N/A,N/A,N/A
+SHI International Corp.,Technology: B2B Tech Services,Information Technology,0,N/A,N/A,N/A
+Vistaprint,Technology: Consumer Internet,Communication Services,16,N/A,N/A,N/A
+Fujifilm Global,Technology: Manufacturing,Consumer Discretionary,12,N/A,N/A,N/A
+PlayStation,Technology: Manufacturing,Communication Services,12,N/A,N/A,N/A
+Druva,Technology: Software,Information Technology,2,N/A,N/A,N/A
+SurveyGizmo,Technology: Software,Information Technology,4,N/A,N/A,N/A
+Xero,Technology: Software,Information Technology,6,N/A,N/A,N/A
+Fedex Supply Chain,Transportation: Freight & Logistics,Industrials,2,N/A,N/A,N/A
+Schneider National,Transportation: Freight & Logistics,Industrials,0,N/A,N/A,N/A
+HD Supply,Wholesale,Consumer Discretionary,14,N/A,N/A,N/A
+Merrimac Industrial Sales,Wholesale,Industrials,0,N/A,N/A,N/A
