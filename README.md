@@ -8,11 +8,11 @@
 
 Our aim for this was project was to explore the following questions:
     
-How do different sectors of the economy vary in their treatment of employees, specifically vis a vis parental leave?
+* How do different sectors of the economy vary in their treatment of employees, specifically vis a vis parental leave?
     
-Is there any relationship between the amount of paternity and maternity leave that companies give their employees?
+* Is there any relationship between the amount of paternity and maternity leave that companies give their employees?
     
-Is there a relationship between employee benefits and the wages they receive?
+* Is there a relationship between employee benefits and the wages they receive?
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,11 +68,19 @@ Melissa Diquisto - https://github.com/mbelld
 
 Will Colwell - https://github.com/wcolwellcol
 
-Alin Cepoi - 
+Alin Cepoi - https://github.com/Cepoix
 
 Moises Coriat - https://github.com/moic10x
 
 Project Link: https://github.com/moic10x/Project-1-Bootcamp
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the Creative Commons Attribution 4.0 International License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
